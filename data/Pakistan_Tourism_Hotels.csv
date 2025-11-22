@@ -1,0 +1,1001 @@
+Hotel_ID,Hotel_Name,City,Province,Latitude,Longitude,Year,Month,Avg_Occupancy_%,Room_Rate_PKR,Total_Rooms,Rooms_Booked,Customer_Type,Booking_Source,Staff_Count,Amenities_Count,Customer_Rating,Total_Revenue,Foreign_Visitors,Local_Visitors
+HTL0001,Marriott_1,Multan,KPK,36.4403,73.2525,2024,12,65.3,12410,236,154,Business,Booking.com,133,8,3.2,1911140,4,150
+HTL0002,Beach Luxury_2,Karachi,KPK,25.9112,65.5293,2024,5,62.9,24384,124,78,Tour Group,Booking.com,106,11,2.6,1901952,11,67
+HTL0003,Avari_3,Islamabad,KPK,34.4692,61.3957,2020,9,31.0,15816,42,13,Business,Booking.com,148,22,3.4,205608,4,9
+HTL0004,Pearl Continental_4,Karachi,KPK,27.2474,66.8389,2024,9,73.0,19500,89,65,Tour Group,Travel Agency,145,29,3.5,1267500,11,54
+HTL0005,Pearl Continental_5,Quetta,KPK,32.561,61.7369,2022,2,40.0,8697,55,22,Tour Group,Airbnb,90,22,3.7,191334,12,10
+HTL0006,Ramada_6,Peshawar,Punjab,36.3624,66.3644,2021,1,29.6,22670,297,88,Family,Booking.com,47,8,4.8,1994960,52,36
+HTL0007,Hotel One_7,Multan,Islamabad Capital Territory,33.7712,72.8925,2020,3,91.8,22535,171,157,Family,Booking.com,78,11,2.6,3537995,1,156
+HTL0008,Ramada_8,Faisalabad,KPK,28.4502,61.006,2021,1,6.7,13023,104,7,Tour Group,Walk-in,44,26,2.9,91161,5,2
+HTL0009,Pearl Continental_9,Faisalabad,Islamabad Capital Territory,28.3422,72.1814,2023,8,57.6,20287,59,34,Family,Booking.com,149,17,4.9,689758,19,15
+HTL0010,Avari_10,Peshawar,KPK,34.8683,70.2601,2021,1,79.9,8653,144,115,Business,Airbnb,77,10,3.1,995095,13,102
+HTL0011,Beach Luxury_11,Faisalabad,Islamabad Capital Territory,29.9825,66.1487,2021,7,81.2,22974,170,138,Family,Booking.com,105,16,3.3,3170412,84,54
+HTL0012,Serena_12,Karachi,Islamabad Capital Territory,35.4783,73.6061,2025,6,97.4,17026,38,37,Tour Group,Airbnb,140,13,3.2,629962,18,19
+HTL0013,Faletti's_13,Lahore,Islamabad Capital Territory,33.0197,69.4748,2023,12,27.8,11039,54,15,Business,Booking.com,130,16,3.0,165585,6,9
+HTL0014,Marriott_14,Peshawar,KPK,28.3956,72.2196,2023,12,76.0,19756,196,149,Tour Group,Website,65,20,4.6,2943644,131,18
+HTL0015,Serena_15,Lahore,Sindh,29.875,64.6083,2025,7,54.3,24124,184,100,Individual,Travel Agency,32,5,2.6,2412400,93,7
+HTL0016,Beach Luxury_16,Islamabad,Islamabad Capital Territory,24.8268,71.3603,2023,11,76.6,20169,171,131,Family,Airbnb,88,7,4.3,2642139,86,45
+HTL0017,Pearl Continental_17,Peshawar,Sindh,30.0733,62.3719,2021,12,98.5,9824,137,135,Individual,Booking.com,95,21,3.3,1326240,74,61
+HTL0018,Beach Luxury_18,Islamabad,Islamabad Capital Territory,32.154,63.7987,2024,10,34.9,7701,146,51,Business,Airbnb,133,25,3.0,392751,14,37
+HTL0019,Pearl Continental_19,Multan,Sindh,26.7874,65.3767,2020,6,98.8,23030,252,249,Individual,Walk-in,71,9,4.1,5734470,80,169
+HTL0020,Ramada_20,Islamabad,KPK,31.2234,61.587,2024,5,92.9,18446,42,39,Family,Airbnb,77,18,4.8,719394,24,15
+HTL0021,Ramada_21,Multan,Balochistan,34.3641,65.9182,2022,5,15.8,13080,146,23,Business,Airbnb,143,18,3.1,300840,13,10
+HTL0022,Beach Luxury_22,Faisalabad,Islamabad Capital Territory,32.1503,67.7645,2023,9,53.0,18987,219,116,Tour Group,Website,130,6,3.1,2202492,3,113
+HTL0023,Ramada_23,Rawalpindi,Balochistan,29.2076,67.709,2021,4,40.8,19269,147,60,Business,Website,12,6,3.6,1156140,14,46
+HTL0024,Avari_24,Lahore,Sindh,24.2571,73.9688,2022,11,40.1,7672,202,81,Tour Group,Booking.com,89,13,3.5,621432,10,71
+HTL0025,Faletti's_25,Quetta,Balochistan,26.3048,74.7871,2021,6,25.6,20387,172,44,Family,Walk-in,93,21,3.8,897028,32,12
+HTL0026,Serena_26,Multan,Balochistan,35.8084,65.6134,2025,12,40.1,4454,137,55,Individual,Travel Agency,88,7,4.1,244970,50,5
+HTL0027,Pearl Continental_27,Peshawar,Islamabad Capital Territory,35.5678,68.9783,2025,12,72.2,23454,90,65,Individual,Booking.com,108,11,4.5,1524510,8,57
+HTL0028,Beach Luxury_28,Quetta,Punjab,25.4783,73.3999,2020,8,36.0,8333,139,50,Business,Walk-in,48,18,4.8,416650,44,6
+HTL0029,Faletti's_29,Karachi,Sindh,36.9643,68.9308,2025,7,38.5,12089,65,25,Business,Airbnb,113,26,3.1,302225,18,7
+HTL0030,Ramada_30,Quetta,Balochistan,35.264,60.3772,2024,7,30.2,23835,278,84,Business,Website,77,24,2.7,2002140,71,13
+HTL0031,Marriott_31,Islamabad,Islamabad Capital Territory,31.5758,65.5681,2025,6,43.3,10583,284,123,Family,Airbnb,57,8,5.0,1301709,13,110
+HTL0032,Pearl Continental_32,Quetta,Sindh,32.928,65.1753,2025,2,25.8,11410,295,76,Tour Group,Airbnb,22,26,2.9,867160,19,57
+HTL0033,Ramada_33,Lahore,Sindh,31.5107,67.7836,2022,9,19.7,9584,289,57,Business,Booking.com,12,12,3.9,546288,9,48
+HTL0034,Beach Luxury_34,Lahore,Punjab,33.6573,67.4216,2020,2,32.9,12624,70,23,Business,Website,50,22,4.2,290352,22,1
+HTL0035,Avari_35,Faisalabad,Sindh,35.4743,61.5552,2023,12,11.6,14392,224,26,Business,Booking.com,85,16,3.8,374192,13,13
+HTL0036,Pearl Continental_36,Rawalpindi,Balochistan,29.3051,67.7337,2025,8,44.7,4806,188,84,Family,Booking.com,115,24,4.5,403704,71,13
+HTL0037,Hotel One_37,Islamabad,Punjab,24.3577,60.9902,2024,5,73.3,18167,187,137,Tour Group,Walk-in,85,6,4.9,2488879,124,13
+HTL0038,Marriott_38,Faisalabad,Islamabad Capital Territory,28.897,68.3283,2022,1,8.9,16343,79,7,Business,Website,66,19,4.6,114401,5,2
+HTL0039,Faletti's_39,Multan,Balochistan,26.4911,60.5415,2024,6,73.2,6298,123,90,Individual,Walk-in,113,13,3.8,566820,42,48
+HTL0040,Avari_40,Peshawar,KPK,25.4798,67.8565,2020,10,77.6,6462,125,97,Business,Booking.com,68,23,2.9,626814,58,39
+HTL0041,Beach Luxury_41,Multan,KPK,26.0463,72.9719,2024,10,11.6,5100,199,23,Business,Booking.com,21,10,4.4,117300,5,18
+HTL0042,Faletti's_42,Faisalabad,Islamabad Capital Territory,32.4664,63.6138,2023,6,52.6,15107,192,101,Business,Website,118,10,3.5,1525807,69,32
+HTL0043,Beach Luxury_43,Quetta,Sindh,29.4781,68.7898,2023,1,31.7,8765,142,45,Tour Group,Website,80,14,4.6,394425,35,10
+HTL0044,Serena_44,Islamabad,KPK,27.5216,67.3989,2022,9,88.5,7087,165,146,Family,Website,12,25,3.4,1034702,66,80
+HTL0045,Hotel One_45,Quetta,KPK,31.5032,72.4661,2025,7,53.8,4744,173,93,Tour Group,Travel Agency,83,20,2.6,441192,64,29
+HTL0046,Hotel One_46,Faisalabad,Balochistan,30.9992,70.7667,2021,8,69.0,10747,58,40,Individual,Website,42,22,2.7,429880,31,9
+HTL0047,Faletti's_47,Lahore,KPK,31.36,70.8139,2024,3,13.2,20406,144,19,Business,Walk-in,65,18,3.3,387714,1,18
+HTL0048,Avari_48,Islamabad,Sindh,34.5296,65.7339,2021,1,22.5,14266,120,27,Tour Group,Travel Agency,126,16,2.5,385182,8,19
+HTL0049,Beach Luxury_49,Quetta,Punjab,35.7486,69.9484,2021,6,12.9,14133,264,34,Individual,Website,26,20,4.6,480522,2,32
+HTL0050,Serena_50,Quetta,Balochistan,28.9889,68.7292,2020,3,69.4,7897,49,34,Business,Airbnb,90,21,2.7,268498,1,33
+HTL0051,Beach Luxury_51,Rawalpindi,Punjab,27.0634,66.91,2021,9,55.6,12923,72,40,Family,Walk-in,133,9,2.8,516920,37,3
+HTL0052,Serena_52,Rawalpindi,Balochistan,27.3706,60.4286,2020,8,44.4,23130,72,32,Tour Group,Travel Agency,85,20,3.8,740160,23,9
+HTL0053,Avari_53,Lahore,Sindh,34.4988,67.3761,2024,3,88.5,12974,87,77,Family,Walk-in,80,20,3.6,998998,34,43
+HTL0054,Ramada_54,Quetta,Islamabad Capital Territory,27.8746,74.8657,2025,10,79.5,4987,44,35,Individual,Travel Agency,22,11,3.1,174545,17,18
+HTL0055,Beach Luxury_55,Quetta,KPK,27.6253,67.2149,2022,11,63.9,15684,72,46,Tour Group,Website,15,15,3.7,721464,29,17
+HTL0056,Serena_56,Multan,Sindh,35.186,72.6599,2020,8,78.4,15692,171,134,Individual,Airbnb,113,20,2.6,2102728,83,51
+HTL0057,Pearl Continental_57,Multan,Islamabad Capital Territory,34.124,62.3018,2020,6,18.8,20209,80,15,Individual,Travel Agency,129,14,2.5,303135,11,4
+HTL0058,Hotel One_58,Lahore,Sindh,26.2951,72.0727,2025,3,68.6,11924,51,35,Family,Travel Agency,103,26,4.4,417340,26,9
+HTL0059,Avari_59,Multan,KPK,36.8883,62.1962,2025,12,69.3,3361,212,147,Business,Travel Agency,31,9,5.0,494067,56,91
+HTL0060,Avari_60,Quetta,Islamabad Capital Territory,29.4993,63.2516,2020,9,71.0,14433,62,44,Tour Group,Booking.com,41,23,3.3,635052,1,43
+HTL0061,Faletti's_61,Islamabad,Sindh,25.2353,69.7968,2023,8,98.8,18785,242,239,Business,Booking.com,27,21,3.2,4489615,0,239
+HTL0062,Faletti's_62,Quetta,Punjab,35.3924,65.6297,2022,8,86.7,16870,150,130,Tour Group,Travel Agency,150,23,3.1,2193100,43,87
+HTL0063,Marriott_63,Lahore,KPK,32.1063,64.7039,2021,4,85.6,15227,285,244,Family,Airbnb,136,13,2.6,3715388,26,218
+HTL0064,Avari_64,Karachi,Punjab,32.5792,64.1704,2023,11,40.9,3960,252,103,Family,Airbnb,96,28,2.6,407880,3,100
+HTL0065,Beach Luxury_65,Quetta,KPK,29.3019,74.4413,2025,11,63.1,13202,130,82,Family,Travel Agency,112,27,3.0,1082564,4,78
+HTL0066,Beach Luxury_66,Quetta,Balochistan,34.3741,72.5446,2022,6,33.5,5612,224,75,Family,Travel Agency,42,28,4.6,420900,16,59
+HTL0067,Serena_67,Islamabad,Balochistan,36.0007,71.4659,2023,3,49.4,14646,79,39,Individual,Travel Agency,130,5,4.7,571194,4,35
+HTL0068,Hotel One_68,Peshawar,KPK,24.5708,69.3092,2021,12,95.7,6154,162,155,Family,Booking.com,60,13,4.4,953870,59,96
+HTL0069,Avari_69,Islamabad,Sindh,30.8039,70.4393,2024,1,57.5,22554,280,161,Individual,Booking.com,114,28,3.8,3631194,46,115
+HTL0070,Faletti's_70,Lahore,Balochistan,32.2523,73.1937,2023,7,33.8,16545,201,68,Tour Group,Booking.com,74,21,3.7,1125060,29,39
+HTL0071,Faletti's_71,Peshawar,Sindh,26.9541,72.7753,2023,6,38.3,3624,266,102,Business,Walk-in,31,16,4.7,369648,90,12
+HTL0072,Avari_72,Lahore,Punjab,30.0927,73.6912,2022,4,40.3,3469,181,73,Individual,Booking.com,119,18,2.5,253237,65,8
+HTL0073,Avari_73,Rawalpindi,Sindh,29.8782,68.8337,2022,9,46.5,22035,260,121,Individual,Airbnb,53,15,3.0,2666235,17,104
+HTL0074,Serena_74,Lahore,Balochistan,30.6762,70.2406,2024,9,69.3,9442,150,104,Family,Website,101,27,4.4,981968,24,80
+HTL0075,Ramada_75,Peshawar,Punjab,30.4131,71.1266,2024,9,36.4,10967,77,28,Individual,Travel Agency,82,24,4.8,307076,8,20
+HTL0076,Pearl Continental_76,Faisalabad,Islamabad Capital Territory,29.8663,70.7369,2020,5,30.2,12563,53,16,Business,Booking.com,140,9,3.3,201008,10,6
+HTL0077,Avari_77,Multan,KPK,25.308,70.0317,2022,9,48.8,5705,41,20,Individual,Travel Agency,145,29,4.4,114100,11,9
+HTL0078,Marriott_78,Faisalabad,KPK,34.3876,72.0628,2020,2,16.0,23870,100,16,Family,Walk-in,56,21,4.8,381920,1,15
+HTL0079,Faletti's_79,Peshawar,Balochistan,28.1371,67.7161,2022,9,58.4,5264,226,132,Business,Booking.com,132,22,4.5,694848,75,57
+HTL0080,Faletti's_80,Karachi,Islamabad Capital Territory,30.3763,68.9775,2023,5,15.6,18427,256,40,Individual,Booking.com,25,22,4.1,737080,37,3
+HTL0081,Hotel One_81,Quetta,Sindh,26.9359,71.2157,2023,3,6.9,22847,102,7,Tour Group,Website,80,17,3.0,159929,4,3
+HTL0082,Pearl Continental_82,Lahore,KPK,25.5865,72.0869,2024,3,55.4,17246,202,112,Individual,Website,16,11,2.6,1931552,35,77
+HTL0083,Faletti's_83,Quetta,Balochistan,27.3779,66.0486,2023,7,13.5,14087,289,39,Tour Group,Website,76,12,3.7,549393,34,5
+HTL0084,Serena_84,Quetta,Punjab,26.6743,62.3989,2021,5,91.9,21262,211,194,Family,Booking.com,131,11,3.8,4124828,65,129
+HTL0085,Faletti's_85,Lahore,Punjab,28.1944,72.883,2023,12,98.8,20162,83,82,Individual,Airbnb,139,16,3.8,1653284,29,53
+HTL0086,Beach Luxury_86,Karachi,Balochistan,24.9141,72.9485,2025,5,10.9,20609,293,32,Family,Airbnb,86,11,2.6,659488,1,31
+HTL0087,Serena_87,Quetta,Islamabad Capital Territory,24.003,66.5832,2025,6,18.4,12126,228,42,Business,Booking.com,88,16,3.1,509292,3,39
+HTL0088,Ramada_88,Karachi,Balochistan,24.1235,60.0066,2023,11,54.2,4406,59,32,Business,Travel Agency,98,6,2.9,140992,20,12
+HTL0089,Hotel One_89,Faisalabad,Punjab,24.6254,74.9858,2024,12,37.2,22021,43,16,Business,Airbnb,112,7,4.9,352336,2,14
+HTL0090,Avari_90,Quetta,Sindh,36.2623,65.4954,2023,3,67.8,18725,202,137,Tour Group,Website,146,21,4.9,2565325,131,6
+HTL0091,Ramada_91,Lahore,KPK,25.0731,71.0439,2021,2,47.0,16959,115,54,Family,Travel Agency,30,8,4.1,915786,6,48
+HTL0092,Faletti's_92,Lahore,KPK,25.4364,63.0356,2022,10,77.9,7537,208,162,Business,Travel Agency,22,28,3.0,1220994,125,37
+HTL0093,Pearl Continental_93,Quetta,Islamabad Capital Territory,24.468,71.9782,2020,10,91.8,8784,171,157,Business,Travel Agency,18,13,4.9,1379088,17,140
+HTL0094,Ramada_94,Peshawar,KPK,34.5604,70.5994,2025,12,99.1,6960,115,114,Tour Group,Airbnb,48,11,2.9,793440,51,63
+HTL0095,Beach Luxury_95,Peshawar,Sindh,24.3382,71.6673,2024,3,90.8,10498,142,129,Tour Group,Website,78,9,4.3,1354242,43,86
+HTL0096,Marriott_96,Multan,Islamabad Capital Territory,25.1894,64.1296,2023,12,68.2,5600,239,163,Tour Group,Travel Agency,138,11,2.6,912800,135,28
+HTL0097,Beach Luxury_97,Peshawar,Punjab,28.6991,67.7205,2021,2,42.4,23346,92,39,Business,Website,124,15,4.6,910494,3,36
+HTL0098,Serena_98,Multan,Sindh,25.1412,74.9735,2020,5,29.1,16978,182,53,Individual,Travel Agency,145,20,3.2,899834,20,33
+HTL0099,Pearl Continental_99,Peshawar,Islamabad Capital Territory,25.5904,74.0571,2025,9,53.8,12436,182,98,Business,Airbnb,35,13,3.4,1218728,9,89
+HTL0100,Avari_100,Lahore,KPK,26.7019,68.9485,2023,7,11.5,4997,191,22,Family,Booking.com,141,22,4.9,109934,18,4
+HTL0101,Faletti's_101,Quetta,Balochistan,35.4543,60.9194,2025,9,30.2,18705,86,26,Individual,Booking.com,29,5,2.8,486330,4,22
+HTL0102,Avari_102,Quetta,Balochistan,24.2069,68.3181,2024,10,29.1,10382,79,23,Business,Booking.com,27,22,2.7,238786,23,0
+HTL0103,Avari_103,Islamabad,Sindh,30.6907,69.9131,2022,11,96.9,14445,96,93,Tour Group,Website,126,13,3.1,1343385,19,74
+HTL0104,Faletti's_104,Peshawar,KPK,30.0681,74.2044,2022,11,89.0,10682,145,129,Business,Website,126,5,3.7,1377978,4,125
+HTL0105,Marriott_105,Rawalpindi,Balochistan,26.6411,64.1661,2024,9,27.3,14506,110,30,Business,Airbnb,122,13,4.5,435180,19,11
+HTL0106,Pearl Continental_106,Rawalpindi,Islamabad Capital Territory,36.7893,64.0151,2024,7,84.8,24603,270,229,Business,Walk-in,33,18,3.9,5634087,177,52
+HTL0107,Beach Luxury_107,Karachi,Islamabad Capital Territory,28.0954,64.5942,2022,12,17.2,17803,163,28,Family,Travel Agency,94,20,4.5,498484,21,7
+HTL0108,Serena_108,Faisalabad,KPK,25.1238,73.5864,2022,9,89.5,13109,171,153,Business,Booking.com,80,8,2.7,2005677,11,142
+HTL0109,Pearl Continental_109,Quetta,Balochistan,24.621,68.6,2022,7,40.4,22674,104,42,Business,Walk-in,29,15,3.2,952308,3,39
+HTL0110,Avari_110,Rawalpindi,Islamabad Capital Territory,36.2724,67.094,2024,7,31.7,21046,123,39,Business,Walk-in,123,13,4.6,820794,24,15
+HTL0111,Pearl Continental_111,Islamabad,Islamabad Capital Territory,28.2057,61.5911,2020,3,17.0,20238,106,18,Business,Walk-in,121,18,3.9,364284,6,12
+HTL0112,Hotel One_112,Lahore,Balochistan,30.6044,60.4526,2022,6,28.6,23292,56,16,Tour Group,Website,21,8,4.2,372672,3,13
+HTL0113,Ramada_113,Rawalpindi,Balochistan,25.131,65.4394,2025,1,96.9,9479,131,127,Individual,Airbnb,126,13,4.1,1203833,74,53
+HTL0114,Beach Luxury_114,Islamabad,Islamabad Capital Territory,30.0811,69.132,2022,6,81.0,10006,142,115,Individual,Airbnb,38,10,3.0,1150690,109,6
+HTL0115,Serena_115,Rawalpindi,KPK,34.1261,68.0294,2021,5,25.1,7193,239,60,Family,Travel Agency,126,21,3.4,431580,49,11
+HTL0116,Beach Luxury_116,Quetta,Islamabad Capital Territory,24.4856,60.2357,2021,8,39.9,15368,243,97,Business,Booking.com,132,26,4.2,1490696,89,8
+HTL0117,Faletti's_117,Islamabad,Islamabad Capital Territory,35.7256,63.9827,2022,8,55.9,3096,179,100,Business,Travel Agency,83,22,4.0,309600,21,79
+HTL0118,Hotel One_118,Faisalabad,KPK,34.3837,63.8906,2024,12,34.9,22438,169,59,Tour Group,Airbnb,27,28,4.9,1323842,41,18
+HTL0119,Beach Luxury_119,Faisalabad,KPK,30.745,62.4559,2020,9,55.7,19539,192,107,Business,Airbnb,130,22,3.3,2090673,50,57
+HTL0120,Marriott_120,Karachi,Balochistan,30.1046,65.3331,2024,11,22.3,23496,251,56,Family,Walk-in,137,26,5.0,1315776,11,45
+HTL0121,Beach Luxury_121,Multan,Punjab,27.3043,63.2911,2021,1,32.5,21605,191,62,Individual,Airbnb,35,26,2.6,1339510,11,51
+HTL0122,Ramada_122,Peshawar,Islamabad Capital Territory,25.297,66.9426,2020,3,54.9,10633,226,124,Family,Travel Agency,150,27,3.3,1318492,39,85
+HTL0123,Beach Luxury_123,Peshawar,Sindh,26.8098,73.8903,2024,1,55.6,6000,133,74,Individual,Website,55,11,4.6,444000,15,59
+HTL0124,Faletti's_124,Multan,Islamabad Capital Territory,25.3521,66.0854,2025,4,94.9,24903,136,129,Business,Website,43,14,3.4,3212487,54,75
+HTL0125,Avari_125,Faisalabad,Balochistan,36.7618,65.2186,2023,5,96.4,12707,55,53,Tour Group,Website,23,25,2.8,673471,38,15
+HTL0126,Marriott_126,Peshawar,Sindh,33.43,61.5992,2022,4,35.8,14533,293,105,Individual,Travel Agency,114,20,5.0,1525965,35,70
+HTL0127,Beach Luxury_127,Rawalpindi,Balochistan,24.1657,60.909,2025,7,56.2,16870,96,54,Family,Walk-in,98,29,4.8,910980,38,16
+HTL0128,Faletti's_128,Multan,KPK,24.9227,69.8828,2024,5,61.5,14723,275,169,Business,Walk-in,10,18,4.4,2488187,0,169
+HTL0129,Avari_129,Karachi,Balochistan,27.6562,63.995,2022,12,18.1,24970,216,39,Tour Group,Website,123,12,3.5,973830,2,37
+HTL0130,Avari_130,Lahore,Punjab,26.1716,63.7759,2022,10,49.5,18624,277,137,Business,Booking.com,143,19,2.6,2551488,58,79
+HTL0131,Faletti's_131,Quetta,Islamabad Capital Territory,36.5896,60.1287,2024,9,46.3,7704,54,25,Business,Website,42,19,2.7,192600,4,21
+HTL0132,Avari_132,Multan,KPK,30.8419,67.8805,2024,8,92.9,12520,85,79,Business,Booking.com,106,30,3.6,989080,25,54
+HTL0133,Faletti's_133,Quetta,Punjab,35.6008,69.2391,2021,8,33.5,3531,194,65,Family,Booking.com,66,7,3.9,229515,63,2
+HTL0134,Ramada_134,Faisalabad,Islamabad Capital Territory,33.1523,63.6184,2021,8,10.8,14945,120,13,Individual,Walk-in,120,8,3.2,194285,0,13
+HTL0135,Faletti's_135,Rawalpindi,Punjab,33.8351,70.6839,2020,11,67.3,7176,52,35,Tour Group,Booking.com,73,11,3.5,251160,17,18
+HTL0136,Ramada_136,Multan,Punjab,27.1381,73.4832,2020,10,25.1,10581,231,58,Family,Walk-in,36,14,3.5,613698,58,0
+HTL0137,Pearl Continental_137,Multan,Balochistan,24.5879,65.0218,2024,6,13.2,8692,91,12,Tour Group,Walk-in,56,13,3.6,104304,2,10
+HTL0138,Serena_138,Rawalpindi,Punjab,34.2853,60.5762,2024,6,17.1,10743,287,49,Family,Travel Agency,141,15,3.2,526407,22,27
+HTL0139,Pearl Continental_139,Rawalpindi,Islamabad Capital Territory,24.0553,63.5255,2024,2,65.0,23084,180,117,Family,Website,65,12,2.7,2700828,15,102
+HTL0140,Beach Luxury_140,Multan,Sindh,28.1193,62.5135,2022,12,34.8,9815,112,39,Tour Group,Website,41,18,3.6,382785,15,24
+HTL0141,Serena_141,Rawalpindi,Sindh,32.6779,61.6085,2021,6,4.4,19324,114,5,Individual,Website,144,22,3.2,96620,0,5
+HTL0142,Pearl Continental_142,Peshawar,Sindh,34.2024,73.8374,2022,5,94.4,14496,142,134,Individual,Walk-in,25,19,4.5,1942464,129,5
+HTL0143,Avari_143,Faisalabad,Balochistan,33.1986,67.0706,2025,2,59.2,10556,174,103,Family,Booking.com,21,15,3.1,1087268,44,59
+HTL0144,Ramada_144,Faisalabad,KPK,36.259,64.0056,2024,3,13.9,22746,187,26,Tour Group,Travel Agency,78,28,3.9,591396,24,2
+HTL0145,Marriott_145,Rawalpindi,Balochistan,29.2681,71.5598,2024,9,23.4,22445,269,63,Individual,Website,109,26,3.4,1414035,43,20
+HTL0146,Serena_146,Multan,Punjab,36.404,71.1401,2021,5,41.1,14007,129,53,Tour Group,Airbnb,11,24,3.3,742371,5,48
+HTL0147,Avari_147,Islamabad,KPK,25.4156,63.0201,2023,6,67.9,17477,246,167,Individual,Booking.com,38,22,4.6,2918659,4,163
+HTL0148,Beach Luxury_148,Multan,Punjab,27.012,68.3201,2022,3,43.8,23886,32,14,Business,Travel Agency,24,9,2.5,334404,11,3
+HTL0149,Avari_149,Peshawar,KPK,31.5307,73.7118,2024,11,58.6,16644,191,112,Tour Group,Airbnb,138,24,2.7,1864128,2,110
+HTL0150,Faletti's_150,Lahore,Balochistan,31.4977,66.3544,2021,5,24.8,21108,141,35,Tour Group,Airbnb,41,9,5.0,738780,14,21
+HTL0151,Serena_151,Karachi,Punjab,34.985,62.896,2022,1,40.4,14768,223,90,Business,Airbnb,28,6,4.7,1329120,47,43
+HTL0152,Ramada_152,Karachi,Sindh,26.73,69.1905,2024,12,10.9,8400,119,13,Family,Booking.com,63,21,4.5,109200,3,10
+HTL0153,Marriott_153,Lahore,Punjab,33.5931,65.4631,2024,4,16.7,17517,216,36,Tour Group,Website,48,19,3.1,630612,23,13
+HTL0154,Beach Luxury_154,Faisalabad,Islamabad Capital Territory,27.9372,66.8556,2025,5,48.1,3215,268,129,Family,Booking.com,78,15,2.7,414735,75,54
+HTL0155,Marriott_155,Faisalabad,Sindh,24.0741,66.2323,2024,2,10.5,20250,124,13,Individual,Airbnb,67,16,2.7,263250,12,1
+HTL0156,Hotel One_156,Faisalabad,Balochistan,33.7513,64.5865,2020,3,40.0,11545,55,22,Family,Travel Agency,131,8,2.8,253990,22,0
+HTL0157,Serena_157,Islamabad,KPK,28.4393,61.4184,2024,3,63.6,24564,165,105,Individual,Travel Agency,75,11,3.9,2579220,7,98
+HTL0158,Beach Luxury_158,Karachi,Balochistan,34.8429,74.8771,2020,12,57.4,5831,54,31,Individual,Travel Agency,36,16,2.7,180761,15,16
+HTL0159,Pearl Continental_159,Multan,Islamabad Capital Territory,26.4765,69.7862,2021,5,19.8,13377,268,53,Individual,Travel Agency,125,28,3.6,708981,18,35
+HTL0160,Avari_160,Rawalpindi,KPK,35.3668,66.2669,2020,1,10.3,19522,224,23,Tour Group,Booking.com,69,24,2.7,449006,0,23
+HTL0161,Beach Luxury_161,Lahore,Punjab,24.6555,74.4287,2022,11,78.7,13437,141,111,Tour Group,Walk-in,144,17,4.1,1491507,63,48
+HTL0162,Avari_162,Rawalpindi,Balochistan,34.0558,60.3056,2024,6,4.4,17794,229,10,Family,Travel Agency,136,6,4.9,177940,8,2
+HTL0163,Hotel One_163,Peshawar,Sindh,33.7525,70.8519,2022,2,60.4,13264,53,32,Business,Website,107,8,4.5,424448,3,29
+HTL0164,Pearl Continental_164,Faisalabad,KPK,27.5711,68.6656,2020,10,16.7,6559,42,7,Individual,Travel Agency,131,22,3.5,45913,4,3
+HTL0165,Pearl Continental_165,Rawalpindi,Punjab,33.0687,71.3386,2023,3,72.2,12804,97,70,Tour Group,Booking.com,45,9,3.5,896280,22,48
+HTL0166,Ramada_166,Islamabad,Sindh,28.1556,69.1319,2025,1,32.7,18639,165,54,Business,Booking.com,49,10,3.9,1006506,17,37
+HTL0167,Hotel One_167,Lahore,Punjab,29.9026,74.5113,2023,1,41.0,11336,134,55,Business,Website,100,15,3.0,623480,31,24
+HTL0168,Ramada_168,Quetta,KPK,28.9824,71.1607,2023,10,86.1,11464,79,68,Individual,Walk-in,135,16,3.5,779552,38,30
+HTL0169,Marriott_169,Peshawar,Balochistan,32.2343,60.2504,2024,1,75.4,23876,236,178,Tour Group,Walk-in,124,22,4.9,4249928,130,48
+HTL0170,Ramada_170,Rawalpindi,Balochistan,26.5985,67.0917,2021,3,81.2,3574,80,65,Tour Group,Airbnb,63,18,3.1,232310,52,13
+HTL0171,Serena_171,Multan,KPK,32.8867,61.9417,2024,2,12.3,14821,292,36,Business,Website,137,19,4.1,533556,2,34
+HTL0172,Ramada_172,Quetta,Punjab,32.4163,63.5238,2021,12,68.6,7228,264,181,Individual,Booking.com,101,14,4.0,1308268,98,83
+HTL0173,Beach Luxury_173,Multan,Balochistan,31.16,70.3295,2020,7,15.6,4158,90,14,Tour Group,Booking.com,143,26,4.7,58212,1,13
+HTL0174,Serena_174,Multan,Punjab,32.8114,69.3432,2023,12,34.3,6760,137,47,Business,Travel Agency,29,20,3.2,317720,31,16
+HTL0175,Beach Luxury_175,Karachi,Balochistan,26.3055,64.2451,2023,7,80.0,12000,30,24,Individual,Website,92,9,3.2,288000,3,21
+HTL0176,Serena_176,Quetta,Punjab,26.7867,67.8265,2021,4,50.9,11785,228,116,Family,Travel Agency,75,29,3.8,1367060,62,54
+HTL0177,Faletti's_177,Peshawar,KPK,29.9168,72.354,2022,12,22.9,11225,70,16,Business,Booking.com,113,13,3.8,179600,12,4
+HTL0178,Serena_178,Quetta,Sindh,34.2054,62.6406,2022,3,14.4,24044,215,31,Family,Travel Agency,44,18,2.7,745364,7,24
+HTL0179,Serena_179,Lahore,Sindh,30.9062,65.4628,2023,12,67.9,8320,84,57,Tour Group,Walk-in,143,8,2.9,474240,18,39
+HTL0180,Hotel One_180,Karachi,Punjab,24.3668,60.9153,2020,9,56.9,17670,58,33,Tour Group,Booking.com,41,25,3.9,583110,13,20
+HTL0181,Pearl Continental_181,Faisalabad,Islamabad Capital Territory,28.2276,63.9922,2024,9,92.2,17555,179,165,Tour Group,Travel Agency,140,11,2.8,2896575,105,60
+HTL0182,Avari_182,Faisalabad,Islamabad Capital Territory,24.6628,67.8109,2022,11,72.9,5365,155,113,Individual,Travel Agency,42,30,3.8,606245,46,67
+HTL0183,Faletti's_183,Islamabad,Balochistan,36.0928,68.7882,2022,4,38.8,16175,152,59,Individual,Airbnb,68,19,4.6,954325,17,42
+HTL0184,Ramada_184,Rawalpindi,KPK,27.3537,63.102,2022,5,90.1,4350,172,155,Tour Group,Walk-in,93,7,2.5,674250,67,88
+HTL0185,Avari_185,Peshawar,Punjab,25.2332,69.0502,2021,10,52.2,13960,297,155,Family,Travel Agency,95,28,3.9,2163800,4,151
+HTL0186,Hotel One_186,Islamabad,KPK,32.238,74.8785,2022,1,21.3,23284,136,29,Tour Group,Airbnb,13,17,3.8,675236,28,1
+HTL0187,Faletti's_187,Rawalpindi,Sindh,30.222,64.5033,2020,7,59.5,23560,116,69,Business,Airbnb,19,19,2.7,1625640,7,62
+HTL0188,Hotel One_188,Multan,KPK,24.727,74.255,2020,6,69.1,11846,282,195,Business,Airbnb,92,10,4.2,2309970,4,191
+HTL0189,Hotel One_189,Multan,Balochistan,31.4127,74.9644,2023,2,58.8,11312,148,87,Tour Group,Website,110,14,4.7,984144,42,45
+HTL0190,Faletti's_190,Peshawar,Balochistan,29.281,61.7126,2022,7,42.1,16410,159,67,Individual,Walk-in,85,20,2.6,1099470,42,25
+HTL0191,Serena_191,Multan,KPK,36.3976,65.9426,2023,9,33.3,18827,33,11,Business,Airbnb,43,9,4.8,207097,6,5
+HTL0192,Marriott_192,Peshawar,Islamabad Capital Territory,32.1669,61.9166,2023,4,72.2,24376,126,91,Business,Airbnb,137,30,2.6,2218216,66,25
+HTL0193,Ramada_193,Quetta,Sindh,35.2525,67.173,2022,11,35.5,4154,31,11,Business,Travel Agency,43,22,4.9,45694,2,9
+HTL0194,Pearl Continental_194,Karachi,KPK,25.9105,63.6986,2022,4,9.3,13469,118,11,Family,Walk-in,34,8,3.2,148159,4,7
+HTL0195,Avari_195,Multan,KPK,30.2591,74.5247,2023,9,6.7,22185,255,17,Business,Travel Agency,68,30,4.5,377145,9,8
+HTL0196,Beach Luxury_196,Karachi,KPK,34.9284,60.8923,2025,8,11.0,7448,145,16,Tour Group,Travel Agency,33,25,3.2,119168,4,12
+HTL0197,Beach Luxury_197,Peshawar,Islamabad Capital Territory,33.1831,61.1395,2023,9,58.1,6371,172,100,Individual,Walk-in,115,13,2.7,637100,90,10
+HTL0198,Ramada_198,Peshawar,Balochistan,28.7597,66.9429,2025,11,71.9,6671,128,92,Business,Walk-in,15,19,3.9,613732,89,3
+HTL0199,Faletti's_199,Quetta,Islamabad Capital Territory,33.7001,63.94,2024,4,15.8,8776,183,29,Family,Booking.com,31,8,4.3,254504,28,1
+HTL0200,Avari_200,Peshawar,Islamabad Capital Territory,34.5254,60.6356,2024,6,53.1,4027,209,111,Business,Website,106,14,3.6,446997,72,39
+HTL0201,Ramada_201,Karachi,KPK,27.4281,60.2601,2023,11,32.8,16775,131,43,Family,Booking.com,88,6,3.5,721325,36,7
+HTL0202,Faletti's_202,Multan,KPK,27.179,69.748,2025,5,7.1,17118,85,6,Business,Walk-in,109,30,2.6,102708,2,4
+HTL0203,Beach Luxury_203,Quetta,KPK,24.8697,70.9736,2023,2,19.4,19625,31,6,Individual,Booking.com,93,17,4.3,117750,4,2
+HTL0204,Marriott_204,Multan,Punjab,27.1142,62.5934,2022,12,77.6,21330,85,66,Tour Group,Walk-in,69,16,3.4,1407780,34,32
+HTL0205,Avari_205,Peshawar,Punjab,30.5246,71.3341,2022,9,82.7,3843,98,81,Individual,Website,44,7,4.2,311283,26,55
+HTL0206,Serena_206,Rawalpindi,KPK,35.3254,66.6321,2022,3,94.4,5950,234,221,Tour Group,Travel Agency,129,25,2.8,1314950,118,103
+HTL0207,Faletti's_207,Rawalpindi,Balochistan,32.5933,67.1438,2024,8,4.9,18923,142,7,Business,Booking.com,126,24,2.8,132461,4,3
+HTL0208,Hotel One_208,Lahore,Balochistan,35.5335,72.4948,2024,8,43.0,15818,142,61,Tour Group,Booking.com,112,5,4.2,964898,35,26
+HTL0209,Marriott_209,Lahore,Punjab,34.7098,69.6521,2025,6,16.2,7202,222,36,Tour Group,Airbnb,56,22,5.0,259272,21,15
+HTL0210,Serena_210,Peshawar,Punjab,32.3018,64.073,2023,4,34.1,23165,82,28,Business,Walk-in,88,15,4.9,648620,21,7
+HTL0211,Pearl Continental_211,Faisalabad,Islamabad Capital Territory,25.2309,66.2516,2025,2,78.0,12450,109,85,Individual,Travel Agency,83,12,3.9,1058250,69,16
+HTL0212,Marriott_212,Rawalpindi,Islamabad Capital Territory,25.5996,60.1223,2020,8,71.6,13640,88,63,Family,Website,85,27,3.2,859320,10,53
+HTL0213,Hotel One_213,Islamabad,Islamabad Capital Territory,36.0216,66.0122,2020,10,82.3,17170,237,195,Family,Website,139,5,3.7,3348150,107,88
+HTL0214,Marriott_214,Peshawar,Punjab,24.8181,74.8257,2024,12,67.3,15766,159,107,Individual,Website,85,28,3.8,1686962,80,27
+HTL0215,Avari_215,Islamabad,Punjab,24.5533,67.0239,2021,3,77.0,18291,230,177,Tour Group,Website,104,24,3.2,3237507,75,102
+HTL0216,Faletti's_216,Lahore,KPK,29.587,64.4177,2022,10,79.7,6130,172,137,Tour Group,Walk-in,72,12,4.9,839810,127,10
+HTL0217,Avari_217,Rawalpindi,Islamabad Capital Territory,26.5108,71.611,2020,6,2.9,24247,209,6,Individual,Website,22,8,3.1,145482,1,5
+HTL0218,Marriott_218,Lahore,Balochistan,36.9587,63.3779,2022,6,9.6,3763,167,16,Family,Booking.com,123,22,4.0,60208,7,9
+HTL0219,Marriott_219,Multan,Punjab,36.5576,67.1474,2020,2,70.9,18699,148,105,Family,Booking.com,14,22,3.3,1963395,57,48
+HTL0220,Marriott_220,Quetta,KPK,31.9714,67.5224,2025,1,64.1,9669,64,41,Family,Booking.com,104,22,3.8,396429,15,26
+HTL0221,Pearl Continental_221,Multan,Islamabad Capital Territory,32.2276,71.2559,2025,8,28.6,6996,133,38,Family,Booking.com,102,13,4.1,265848,25,13
+HTL0222,Serena_222,Karachi,Islamabad Capital Territory,29.8088,71.0505,2025,11,99.6,24183,234,233,Individual,Booking.com,79,6,4.0,5634639,115,118
+HTL0223,Marriott_223,Rawalpindi,Balochistan,30.3508,74.8972,2025,9,25.0,16574,80,20,Individual,Travel Agency,81,5,4.0,331480,6,14
+HTL0224,Beach Luxury_224,Rawalpindi,Islamabad Capital Territory,25.1332,60.3479,2025,9,78.4,5749,232,182,Family,Travel Agency,132,17,4.0,1046318,67,115
+HTL0225,Faletti's_225,Lahore,Islamabad Capital Territory,25.7876,74.197,2023,3,74.1,24995,58,43,Tour Group,Website,99,26,4.9,1074785,24,19
+HTL0226,Avari_226,Peshawar,Islamabad Capital Territory,36.0418,74.3119,2023,6,42.6,12408,115,49,Business,Walk-in,26,27,3.6,607992,23,26
+HTL0227,Serena_227,Faisalabad,Islamabad Capital Territory,32.1071,71.8146,2022,10,54.1,18460,222,120,Tour Group,Walk-in,134,8,3.1,2215200,58,62
+HTL0228,Pearl Continental_228,Rawalpindi,Punjab,28.4197,69.0804,2021,3,12.1,18566,215,26,Family,Travel Agency,127,25,3.6,482716,22,4
+HTL0229,Faletti's_229,Peshawar,Islamabad Capital Territory,25.0628,67.1274,2024,10,71.6,8799,215,154,Business,Website,72,7,2.7,1355046,78,76
+HTL0230,Avari_230,Karachi,Punjab,35.8489,70.2601,2025,7,90.4,14189,83,75,Family,Airbnb,75,20,3.3,1064175,41,34
+HTL0231,Beach Luxury_231,Faisalabad,Punjab,24.8396,60.0738,2022,6,41.2,15585,284,117,Tour Group,Website,42,5,2.9,1823445,25,92
+HTL0232,Hotel One_232,Quetta,Balochistan,30.4677,73.9292,2020,6,45.0,3139,40,18,Family,Booking.com,122,30,4.8,56502,13,5
+HTL0233,Faletti's_233,Peshawar,KPK,33.4696,72.0274,2024,10,40.3,23640,206,83,Individual,Website,92,12,4.0,1962120,26,57
+HTL0234,Pearl Continental_234,Quetta,Sindh,26.0181,67.7341,2020,8,4.0,13393,177,7,Business,Website,123,8,2.6,93751,6,1
+HTL0235,Ramada_235,Karachi,Sindh,29.45,64.1621,2023,3,98.1,11477,155,152,Business,Airbnb,43,27,3.0,1744504,128,24
+HTL0236,Serena_236,Rawalpindi,Punjab,32.3595,74.8128,2023,5,75.8,19375,248,188,Family,Walk-in,27,27,4.8,3642500,84,104
+HTL0237,Marriott_237,Quetta,KPK,33.9439,70.7891,2021,11,10.9,13530,147,16,Family,Website,52,15,4.2,216480,6,10
+HTL0238,Pearl Continental_238,Peshawar,Balochistan,29.206,67.8513,2024,9,38.9,8366,90,35,Individual,Website,10,8,3.8,292810,26,9
+HTL0239,Faletti's_239,Lahore,Punjab,34.4533,68.8188,2020,4,62.3,5100,130,81,Individual,Airbnb,128,10,4.4,413100,79,2
+HTL0240,Pearl Continental_240,Lahore,Punjab,30.2587,68.3344,2021,8,48.7,14836,78,38,Business,Walk-in,125,25,4.2,563768,16,22
+HTL0241,Ramada_241,Lahore,Sindh,30.7728,68.5297,2025,4,77.8,6938,36,28,Business,Walk-in,93,20,4.3,194264,24,4
+HTL0242,Avari_242,Quetta,Sindh,29.3667,60.5113,2020,4,88.2,10531,152,134,Family,Airbnb,40,6,3.3,1411154,30,104
+HTL0243,Hotel One_243,Karachi,KPK,27.38,61.7642,2023,9,5.7,8471,296,17,Family,Booking.com,28,7,2.9,144007,13,4
+HTL0244,Hotel One_244,Lahore,Punjab,32.4653,61.0673,2021,12,51.6,14380,64,33,Business,Booking.com,10,17,3.1,474540,4,29
+HTL0245,Ramada_245,Quetta,Balochistan,33.6197,62.414,2024,4,31.9,23908,72,23,Family,Travel Agency,25,8,4.9,549884,19,4
+HTL0246,Avari_246,Multan,Sindh,24.3221,71.2236,2025,3,59.7,8217,62,37,Individual,Walk-in,42,6,3.9,304029,15,22
+HTL0247,Beach Luxury_247,Islamabad,KPK,29.6573,68.9987,2023,10,90.0,11120,30,27,Business,Booking.com,124,28,3.3,300240,15,12
+HTL0248,Pearl Continental_248,Karachi,KPK,29.8977,65.7411,2025,8,22.0,21320,255,56,Tour Group,Booking.com,121,11,3.0,1193920,26,30
+HTL0249,Hotel One_249,Multan,Balochistan,29.1555,67.1175,2024,3,98.4,5087,189,186,Family,Walk-in,99,17,3.8,946182,16,170
+HTL0250,Ramada_250,Multan,Sindh,26.0756,72.78,2025,4,39.7,21813,136,54,Tour Group,Website,70,12,3.5,1177902,52,2
+HTL0251,Avari_251,Faisalabad,Sindh,32.2007,70.977,2020,9,51.4,24033,175,90,Individual,Airbnb,31,5,3.9,2162970,78,12
+HTL0252,Beach Luxury_252,Lahore,Punjab,29.8658,70.4517,2024,11,23.4,13972,94,22,Family,Walk-in,119,30,3.4,307384,8,14
+HTL0253,Avari_253,Peshawar,Balochistan,25.2447,70.4223,2022,12,69.4,7586,36,25,Family,Walk-in,149,6,4.9,189650,7,18
+HTL0254,Pearl Continental_254,Karachi,Islamabad Capital Territory,34.0203,69.8754,2021,3,99.6,8438,236,235,Individual,Booking.com,42,20,4.5,1982930,186,49
+HTL0255,Ramada_255,Multan,Sindh,29.459,64.3138,2025,3,97.7,11775,88,86,Business,Walk-in,119,23,3.9,1012650,55,31
+HTL0256,Pearl Continental_256,Rawalpindi,Sindh,26.412,65.4104,2025,2,84.4,21823,173,146,Family,Travel Agency,60,9,3.0,3186158,1,145
+HTL0257,Ramada_257,Karachi,Balochistan,24.4909,74.2174,2020,9,57.4,3844,235,135,Business,Walk-in,46,21,3.2,518940,91,44
+HTL0258,Hotel One_258,Multan,Islamabad Capital Territory,27.7374,73.586,2022,10,37.5,19631,64,24,Family,Walk-in,70,10,4.9,471144,4,20
+HTL0259,Pearl Continental_259,Islamabad,KPK,24.8952,60.8866,2020,9,87.5,3041,32,28,Family,Booking.com,78,17,3.2,85148,20,8
+HTL0260,Ramada_260,Islamabad,Balochistan,34.4329,68.6412,2024,7,92.3,7744,207,191,Business,Airbnb,79,22,3.0,1479104,1,190
+HTL0261,Ramada_261,Peshawar,KPK,33.3575,62.9817,2022,3,19.0,20534,289,55,Tour Group,Website,15,23,2.6,1129370,38,17
+HTL0262,Beach Luxury_262,Karachi,Balochistan,27.188,72.9928,2021,9,77.0,12875,265,204,Individual,Booking.com,149,28,4.8,2626500,129,75
+HTL0263,Hotel One_263,Islamabad,Balochistan,26.6941,66.8584,2020,5,99.4,11235,166,165,Business,Booking.com,49,23,3.9,1853775,56,109
+HTL0264,Beach Luxury_264,Rawalpindi,Punjab,35.8394,69.5474,2023,10,12.2,4674,98,12,Family,Walk-in,34,30,4.9,56088,10,2
+HTL0265,Avari_265,Islamabad,Punjab,36.1274,74.4268,2021,8,24.1,8566,291,70,Business,Booking.com,36,8,4.1,599620,32,38
+HTL0266,Pearl Continental_266,Islamabad,Sindh,26.7804,68.0684,2022,8,81.2,16397,85,69,Tour Group,Website,132,13,4.1,1131393,1,68
+HTL0267,Avari_267,Karachi,Punjab,35.4993,60.1208,2022,2,81.4,23982,43,35,Tour Group,Airbnb,70,7,2.6,839370,26,9
+HTL0268,Pearl Continental_268,Karachi,Punjab,34.3718,67.3709,2020,1,49.1,23175,55,27,Business,Walk-in,66,5,4.3,625725,13,14
+HTL0269,Avari_269,Peshawar,Balochistan,32.6533,65.9957,2022,3,55.1,15164,138,76,Family,Booking.com,141,18,3.0,1152464,26,50
+HTL0270,Avari_270,Multan,KPK,31.8394,62.4999,2024,10,10.4,23697,289,30,Tour Group,Website,71,30,3.7,710910,10,20
+HTL0271,Pearl Continental_271,Lahore,Sindh,25.3894,74.8318,2025,11,86.8,10436,53,46,Family,Travel Agency,132,23,3.0,480056,0,46
+HTL0272,Marriott_272,Islamabad,Islamabad Capital Territory,24.0416,72.2519,2022,6,15.9,22591,145,23,Tour Group,Website,61,20,3.7,519593,12,11
+HTL0273,Pearl Continental_273,Rawalpindi,Sindh,28.2991,73.8104,2020,10,67.0,3698,100,67,Individual,Booking.com,92,11,3.8,247766,59,8
+HTL0274,Marriott_274,Quetta,Balochistan,25.1096,73.4384,2022,11,20.6,22332,155,32,Family,Walk-in,142,24,2.6,714624,9,23
+HTL0275,Serena_275,Rawalpindi,Punjab,25.5978,60.7675,2025,1,25.5,9237,294,75,Individual,Airbnb,140,27,2.6,692775,20,55
+HTL0276,Marriott_276,Islamabad,Sindh,24.37,68.2384,2023,6,33.3,14089,87,29,Tour Group,Booking.com,88,30,4.9,408581,17,12
+HTL0277,Beach Luxury_277,Lahore,KPK,36.7403,62.4756,2024,3,90.0,24457,209,188,Individual,Walk-in,68,26,4.9,4597916,166,22
+HTL0278,Pearl Continental_278,Rawalpindi,KPK,31.5654,62.358,2021,7,75.8,22179,293,222,Tour Group,Booking.com,127,27,2.9,4923738,107,115
+HTL0279,Beach Luxury_279,Faisalabad,Balochistan,25.736,63.2699,2022,11,71.1,20868,235,167,Individual,Booking.com,59,30,2.8,3484956,85,82
+HTL0280,Faletti's_280,Quetta,Balochistan,31.9181,74.0327,2022,7,75.2,18910,125,94,Business,Airbnb,65,5,4.7,1777540,82,12
+HTL0281,Hotel One_281,Lahore,KPK,32.0148,62.6333,2022,11,47.8,24963,274,131,Business,Website,145,17,3.9,3270153,69,62
+HTL0282,Hotel One_282,Rawalpindi,Balochistan,24.6771,64.296,2023,7,94.1,6126,188,177,Family,Booking.com,121,23,3.2,1084302,10,167
+HTL0283,Pearl Continental_283,Karachi,Punjab,29.7657,69.8497,2021,9,35.7,24174,126,45,Individual,Airbnb,135,15,5.0,1087830,16,29
+HTL0284,Faletti's_284,Karachi,Balochistan,31.8918,73.1038,2020,1,87.3,22205,245,214,Family,Airbnb,84,30,4.0,4751870,174,40
+HTL0285,Faletti's_285,Faisalabad,Balochistan,24.1988,69.2401,2023,10,88.9,17773,54,48,Business,Booking.com,43,8,4.4,853104,41,7
+HTL0286,Beach Luxury_286,Quetta,Balochistan,28.6272,72.3848,2023,6,91.8,18041,294,270,Tour Group,Booking.com,41,8,3.6,4871070,81,189
+HTL0287,Pearl Continental_287,Multan,Sindh,29.8254,62.2461,2022,12,26.9,24818,78,21,Individual,Walk-in,104,11,4.2,521178,3,18
+HTL0288,Faletti's_288,Karachi,Balochistan,33.4943,68.949,2025,8,58.3,7221,48,28,Tour Group,Travel Agency,125,20,3.6,202188,14,14
+HTL0289,Ramada_289,Lahore,Punjab,33.6063,70.2774,2025,4,97.2,13819,286,278,Family,Airbnb,134,22,2.5,3841682,172,106
+HTL0290,Serena_290,Multan,Balochistan,29.4086,66.3207,2024,12,43.3,15222,289,125,Family,Travel Agency,133,12,4.5,1902750,40,85
+HTL0291,Ramada_291,Faisalabad,Punjab,30.1612,63.1227,2025,7,46.6,12487,277,129,Family,Walk-in,112,14,4.3,1610823,31,98
+HTL0292,Marriott_292,Rawalpindi,Punjab,24.0893,72.0871,2025,4,89.0,13363,181,161,Tour Group,Walk-in,19,13,3.5,2151443,115,46
+HTL0293,Avari_293,Faisalabad,Balochistan,33.0527,70.7597,2025,1,5.4,5970,130,7,Family,Travel Agency,116,20,3.2,41790,3,4
+HTL0294,Beach Luxury_294,Islamabad,Islamabad Capital Territory,32.7332,70.3312,2021,10,98.6,12924,213,210,Family,Walk-in,61,22,2.7,2714040,66,144
+HTL0295,Pearl Continental_295,Multan,KPK,28.0956,63.4572,2025,4,31.4,10960,86,27,Individual,Walk-in,65,25,4.4,295920,2,25
+HTL0296,Faletti's_296,Quetta,Islamabad Capital Territory,36.6304,70.0318,2025,3,47.3,3222,277,131,Individual,Website,77,25,3.7,422082,105,26
+HTL0297,Beach Luxury_297,Karachi,Punjab,28.2249,60.8013,2023,7,41.5,5657,65,27,Family,Website,141,28,2.6,152739,5,22
+HTL0298,Serena_298,Karachi,Balochistan,31.3564,64.0693,2020,4,16.8,9136,119,20,Business,Airbnb,65,9,2.8,182720,5,15
+HTL0299,Beach Luxury_299,Rawalpindi,Punjab,26.137,62.647,2020,9,41.5,15622,118,49,Business,Travel Agency,149,20,2.6,765478,9,40
+HTL0300,Pearl Continental_300,Islamabad,Islamabad Capital Territory,35.8143,62.8565,2022,2,52.0,15408,198,103,Tour Group,Booking.com,127,14,3.8,1587024,48,55
+HTL0301,Faletti's_301,Rawalpindi,Islamabad Capital Territory,31.7113,71.2195,2021,5,77.8,5352,158,123,Business,Booking.com,34,23,2.9,658296,41,82
+HTL0302,Faletti's_302,Karachi,Balochistan,30.5969,72.4292,2025,3,15.9,10663,44,7,Family,Travel Agency,82,17,2.6,74641,3,4
+HTL0303,Serena_303,Karachi,Balochistan,30.7878,64.7432,2024,10,99.3,7291,139,138,Family,Walk-in,103,6,4.4,1006158,53,85
+HTL0304,Pearl Continental_304,Peshawar,Sindh,34.1197,62.229,2021,7,23.6,7982,199,47,Family,Travel Agency,23,30,3.7,375154,6,41
+HTL0305,Ramada_305,Peshawar,Balochistan,25.8257,69.1739,2020,7,80.6,9766,160,129,Tour Group,Website,29,23,4.4,1259814,106,23
+HTL0306,Marriott_306,Faisalabad,Punjab,28.2897,74.3615,2024,10,19.4,15308,196,38,Business,Airbnb,33,8,3.8,581704,12,26
+HTL0307,Faletti's_307,Rawalpindi,Islamabad Capital Territory,24.6892,72.7875,2020,8,13.3,7926,60,8,Individual,Travel Agency,145,10,2.6,63408,8,0
+HTL0308,Avari_308,Rawalpindi,Sindh,26.2165,68.6874,2023,3,75.0,17399,64,48,Tour Group,Booking.com,36,11,3.7,835152,14,34
+HTL0309,Avari_309,Islamabad,Islamabad Capital Territory,34.852,71.2069,2022,10,63.9,10707,252,161,Tour Group,Travel Agency,100,26,4.5,1723827,98,63
+HTL0310,Avari_310,Islamabad,Islamabad Capital Territory,27.3422,65.774,2025,12,97.4,13072,76,74,Family,Website,49,23,2.6,967328,15,59
+HTL0311,Beach Luxury_311,Quetta,Islamabad Capital Territory,34.6286,67.6933,2021,3,27.3,7813,256,70,Tour Group,Website,84,19,5.0,546910,18,52
+HTL0312,Serena_312,Islamabad,KPK,34.8191,63.5445,2025,5,16.1,19873,149,24,Business,Website,37,20,3.9,476952,6,18
+HTL0313,Avari_313,Karachi,Sindh,29.6456,63.6389,2020,2,54.6,4026,97,53,Tour Group,Website,139,30,2.7,213378,22,31
+HTL0314,Pearl Continental_314,Peshawar,Islamabad Capital Territory,31.0947,73.1209,2023,12,62.3,13160,138,86,Individual,Walk-in,76,20,4.5,1131760,30,56
+HTL0315,Ramada_315,Lahore,Sindh,36.1309,63.0686,2022,6,48.8,22375,211,103,Family,Travel Agency,31,20,5.0,2304625,45,58
+HTL0316,Pearl Continental_316,Islamabad,Balochistan,32.3127,74.9509,2022,9,19.7,4667,66,13,Individual,Walk-in,134,27,4.1,60671,8,5
+HTL0317,Avari_317,Rawalpindi,Balochistan,29.4753,64.7125,2021,4,11.0,20412,245,27,Tour Group,Booking.com,96,27,3.0,551124,11,16
+HTL0318,Hotel One_318,Faisalabad,Punjab,30.2828,68.5505,2020,3,27.4,23614,84,23,Tour Group,Booking.com,41,7,2.8,543122,23,0
+HTL0319,Beach Luxury_319,Karachi,Islamabad Capital Territory,30.1332,61.4421,2020,4,41.8,12424,239,100,Tour Group,Airbnb,27,25,4.7,1242400,60,40
+HTL0320,Avari_320,Quetta,Sindh,30.6787,72.5519,2021,11,50.5,12452,196,99,Family,Airbnb,15,10,3.2,1232748,23,76
+HTL0321,Pearl Continental_321,Faisalabad,Punjab,27.3094,66.9417,2025,10,14.3,13805,56,8,Business,Travel Agency,109,8,3.5,110440,1,7
+HTL0322,Ramada_322,Faisalabad,Punjab,34.3172,72.2015,2020,4,76.9,9005,121,93,Family,Booking.com,11,13,3.6,837465,35,58
+HTL0323,Beach Luxury_323,Faisalabad,KPK,26.6936,74.6296,2024,3,100.0,23839,50,50,Individual,Airbnb,89,13,4.7,1191950,26,24
+HTL0324,Ramada_324,Lahore,Balochistan,25.2148,71.1607,2020,12,55.0,6113,200,110,Family,Booking.com,111,20,4.4,672430,24,86
+HTL0325,Ramada_325,Multan,Sindh,34.4471,65.796,2022,6,75.9,13548,162,123,Tour Group,Airbnb,100,11,3.9,1666404,110,13
+HTL0326,Hotel One_326,Quetta,Sindh,27.2203,74.2552,2023,5,31.3,22155,211,66,Individual,Travel Agency,69,16,4.5,1462230,40,26
+HTL0327,Hotel One_327,Rawalpindi,Islamabad Capital Territory,27.4606,73.166,2023,10,97.6,22728,125,122,Individual,Walk-in,54,27,4.6,2772816,31,91
+HTL0328,Marriott_328,Faisalabad,Sindh,29.197,67.4731,2024,7,91.6,11002,287,263,Family,Website,13,21,3.6,2893526,150,113
+HTL0329,Ramada_329,Rawalpindi,Islamabad Capital Territory,31.6069,71.7194,2023,2,27.1,17869,144,39,Family,Booking.com,86,5,3.6,696891,34,5
+HTL0330,Ramada_330,Quetta,Sindh,25.3737,74.9045,2021,10,15.6,3868,231,36,Family,Website,79,17,4.8,139248,24,12
+HTL0331,Hotel One_331,Multan,Punjab,31.3545,65.7601,2021,10,64.8,23074,105,68,Business,Travel Agency,23,22,3.6,1569032,31,37
+HTL0332,Avari_332,Karachi,KPK,28.8255,66.7291,2022,1,25.9,23933,85,22,Business,Booking.com,25,23,4.1,526526,15,7
+HTL0333,Avari_333,Karachi,Sindh,30.2765,72.8569,2023,3,81.2,18744,112,91,Tour Group,Airbnb,149,21,4.4,1705704,16,75
+HTL0334,Beach Luxury_334,Peshawar,KPK,26.4767,64.8193,2023,4,34.8,23258,204,71,Individual,Website,34,8,3.7,1651318,21,50
+HTL0335,Ramada_335,Multan,KPK,27.361,70.3184,2020,6,60.0,4916,95,57,Family,Travel Agency,143,25,4.8,280212,0,57
+HTL0336,Ramada_336,Karachi,KPK,32.5425,70.0059,2021,6,71.0,9307,193,137,Business,Website,38,22,4.4,1275059,50,87
+HTL0337,Hotel One_337,Karachi,Balochistan,26.6906,65.5496,2021,5,93.1,24944,217,202,Tour Group,Booking.com,109,5,3.1,5038688,52,150
+HTL0338,Pearl Continental_338,Islamabad,Punjab,35.9907,63.737,2021,2,36.2,20334,105,38,Family,Website,110,24,4.7,772692,21,17
+HTL0339,Beach Luxury_339,Faisalabad,Balochistan,34.4486,66.9696,2021,7,60.9,10750,46,28,Business,Travel Agency,42,18,4.9,301000,3,25
+HTL0340,Pearl Continental_340,Multan,Balochistan,29.1975,70.5602,2025,4,61.9,17201,160,99,Family,Website,149,14,4.7,1702899,5,94
+HTL0341,Marriott_341,Lahore,Balochistan,33.4319,64.7139,2020,10,61.0,9318,123,75,Individual,Travel Agency,56,16,3.7,698850,67,8
+HTL0342,Ramada_342,Karachi,Islamabad Capital Territory,36.3943,61.4975,2025,1,65.8,11652,38,25,Family,Website,66,23,4.3,291300,14,11
+HTL0343,Beach Luxury_343,Quetta,Punjab,36.6917,64.5249,2022,7,38.2,23262,283,108,Tour Group,Booking.com,27,14,4.1,2512296,24,84
+HTL0344,Serena_344,Islamabad,Islamabad Capital Territory,28.68,60.3049,2023,10,62.7,21978,209,131,Business,Walk-in,97,11,4.2,2879118,54,77
+HTL0345,Faletti's_345,Lahore,Balochistan,36.9008,69.1963,2023,7,56.5,17095,214,121,Individual,Booking.com,43,7,5.0,2068495,108,13
+HTL0346,Ramada_346,Rawalpindi,Islamabad Capital Territory,30.8494,62.2133,2023,4,4.8,4272,104,5,Family,Airbnb,52,12,3.2,21360,2,3
+HTL0347,Ramada_347,Karachi,Islamabad Capital Territory,35.2546,61.81,2024,9,24.5,4726,188,46,Family,Walk-in,73,8,4.4,217396,19,27
+HTL0348,Beach Luxury_348,Peshawar,Punjab,34.7697,70.6746,2020,10,12.9,23046,62,8,Family,Website,133,29,4.3,184368,6,2
+HTL0349,Ramada_349,Islamabad,Punjab,29.3737,70.8615,2020,1,41.8,16203,189,79,Family,Airbnb,105,11,2.5,1280037,69,10
+HTL0350,Marriott_350,Rawalpindi,Punjab,31.2262,67.7399,2023,2,5.1,15637,216,11,Family,Airbnb,31,17,3.3,172007,4,7
+HTL0351,Beach Luxury_351,Lahore,Balochistan,25.719,70.5655,2021,9,13.3,22305,135,18,Business,Travel Agency,107,26,3.7,401490,7,11
+HTL0352,Faletti's_352,Faisalabad,Punjab,36.9325,64.8712,2025,1,45.8,17091,236,108,Tour Group,Booking.com,75,8,3.4,1845828,95,13
+HTL0353,Marriott_353,Karachi,Balochistan,31.2831,67.3961,2022,4,40.8,3895,120,49,Family,Walk-in,104,26,2.9,190855,26,23
+HTL0354,Serena_354,Faisalabad,Punjab,30.6035,73.2637,2025,9,79.8,9132,129,103,Family,Walk-in,142,11,3.2,940596,101,2
+HTL0355,Beach Luxury_355,Faisalabad,KPK,24.4601,74.7557,2025,10,38.6,18105,197,76,Tour Group,Travel Agency,54,14,3.0,1375980,54,22
+HTL0356,Faletti's_356,Rawalpindi,KPK,30.7206,72.4018,2022,4,76.9,23910,229,176,Individual,Website,74,22,2.8,4208160,60,116
+HTL0357,Hotel One_357,Peshawar,Sindh,34.4441,74.871,2020,2,93.7,6330,95,89,Individual,Booking.com,99,6,4.1,563370,7,82
+HTL0358,Pearl Continental_358,Lahore,Balochistan,30.1987,62.8513,2021,2,13.4,12146,179,24,Individual,Walk-in,86,9,3.0,291504,23,1
+HTL0359,Hotel One_359,Multan,Punjab,31.6319,71.92,2022,8,97.1,12482,173,168,Individual,Airbnb,127,24,2.8,2096976,163,5
+HTL0360,Pearl Continental_360,Peshawar,Punjab,28.6367,71.5511,2021,2,7.9,13176,114,9,Business,Walk-in,46,29,2.9,118584,5,4
+HTL0361,Pearl Continental_361,Karachi,Islamabad Capital Territory,36.6116,72.662,2021,1,37.5,22216,277,104,Business,Travel Agency,99,11,3.7,2310464,67,37
+HTL0362,Marriott_362,Multan,Balochistan,36.835,72.8352,2021,4,38.9,16522,180,70,Individual,Walk-in,26,28,3.4,1156540,31,39
+HTL0363,Pearl Continental_363,Rawalpindi,Balochistan,29.8301,63.6622,2020,9,46.9,16059,162,76,Business,Booking.com,23,23,3.1,1220484,11,65
+HTL0364,Ramada_364,Faisalabad,Balochistan,28.121,60.2453,2024,9,72.7,23900,271,197,Business,Travel Agency,49,25,2.7,4708300,140,57
+HTL0365,Pearl Continental_365,Rawalpindi,Islamabad Capital Territory,29.7926,63.733,2020,6,26.8,15148,299,80,Business,Travel Agency,36,25,4.9,1211840,45,35
+HTL0366,Ramada_366,Multan,KPK,30.6112,65.2555,2021,12,4.0,23621,247,10,Business,Walk-in,99,9,2.8,236210,5,5
+HTL0367,Pearl Continental_367,Peshawar,Balochistan,33.3926,65.4503,2023,6,36.6,19876,131,48,Individual,Booking.com,53,19,3.9,954048,40,8
+HTL0368,Ramada_368,Multan,Punjab,28.2403,69.4641,2020,9,99.0,19877,206,204,Tour Group,Airbnb,136,28,3.4,4054908,194,10
+HTL0369,Marriott_369,Lahore,Sindh,25.0772,62.8178,2022,4,59.6,22343,47,28,Business,Website,112,22,3.4,625604,17,11
+HTL0370,Serena_370,Karachi,KPK,32.9431,63.8074,2020,5,100.0,24975,48,48,Individual,Travel Agency,39,18,4.0,1198800,29,19
+HTL0371,Marriott_371,Multan,Islamabad Capital Territory,28.4614,70.6237,2023,7,45.7,15285,127,58,Individual,Travel Agency,149,8,4.4,886530,56,2
+HTL0372,Marriott_372,Peshawar,Islamabad Capital Territory,36.4809,64.8126,2024,9,30.6,17390,134,41,Business,Walk-in,130,16,3.1,712990,3,38
+HTL0373,Avari_373,Lahore,Sindh,24.8484,61.8039,2022,5,5.2,6618,213,11,Individual,Airbnb,90,6,3.3,72798,9,2
+HTL0374,Faletti's_374,Karachi,Islamabad Capital Territory,33.0362,72.1065,2023,12,73.0,5149,189,138,Individual,Website,71,17,2.5,710562,17,121
+HTL0375,Marriott_375,Peshawar,Islamabad Capital Territory,32.9575,69.3777,2020,4,22.6,12964,235,53,Individual,Booking.com,45,26,4.3,687092,24,29
+HTL0376,Marriott_376,Quetta,Punjab,24.1506,60.3987,2020,12,63.6,7120,77,49,Family,Website,89,8,2.5,348880,11,38
+HTL0377,Beach Luxury_377,Lahore,KPK,32.1351,70.0153,2022,1,47.8,21013,67,32,Business,Airbnb,146,17,2.8,672416,12,20
+HTL0378,Hotel One_378,Quetta,Balochistan,28.3155,62.896,2024,4,8.1,15846,62,5,Family,Walk-in,18,9,2.6,79230,5,0
+HTL0379,Beach Luxury_379,Lahore,Balochistan,34.9838,60.1574,2020,1,60.3,16798,78,47,Individual,Airbnb,52,18,4.5,789506,16,31
+HTL0380,Hotel One_380,Quetta,Punjab,31.621,61.3646,2023,9,8.8,24892,249,22,Family,Booking.com,96,19,3.1,547624,13,9
+HTL0381,Beach Luxury_381,Lahore,KPK,26.0526,72.5138,2023,4,52.7,19145,300,158,Individual,Walk-in,118,12,5.0,3024910,81,77
+HTL0382,Hotel One_382,Lahore,Sindh,34.6091,61.0419,2024,3,41.7,14940,175,73,Tour Group,Walk-in,90,20,3.7,1090620,45,28
+HTL0383,Beach Luxury_383,Multan,Islamabad Capital Territory,30.273,67.6487,2024,2,34.0,9523,47,16,Individual,Booking.com,27,30,3.8,152368,2,14
+HTL0384,Avari_384,Multan,KPK,31.3789,66.079,2022,12,5.4,19778,167,9,Tour Group,Travel Agency,50,9,3.0,178002,8,1
+HTL0385,Beach Luxury_385,Faisalabad,Islamabad Capital Territory,33.7141,71.0036,2021,8,62.5,12088,32,20,Family,Booking.com,32,24,4.8,241760,10,10
+HTL0386,Avari_386,Quetta,Islamabad Capital Territory,25.12,61.4133,2024,3,67.4,19130,221,149,Tour Group,Airbnb,28,10,2.6,2850370,86,63
+HTL0387,Faletti's_387,Multan,Balochistan,24.888,69.183,2021,6,24.5,3002,237,58,Family,Airbnb,12,14,4.9,174116,18,40
+HTL0388,Beach Luxury_388,Multan,Sindh,34.388,63.4152,2024,5,91.4,17606,151,138,Business,Booking.com,107,26,4.3,2429628,109,29
+HTL0389,Marriott_389,Peshawar,Sindh,29.8656,67.1532,2023,12,24.1,7686,286,69,Family,Website,126,10,4.0,530334,17,52
+HTL0390,Hotel One_390,Islamabad,Balochistan,27.4719,64.0447,2022,1,98.1,22023,103,101,Tour Group,Travel Agency,56,21,4.6,2224323,0,101
+HTL0391,Marriott_391,Faisalabad,Sindh,33.8012,69.9973,2020,10,96.5,17854,198,191,Business,Walk-in,42,21,2.9,3410114,168,23
+HTL0392,Avari_392,Multan,Islamabad Capital Territory,36.9717,67.34,2021,11,93.2,16054,44,41,Business,Website,51,19,3.7,658214,2,39
+HTL0393,Serena_393,Lahore,Punjab,26.1577,62.5401,2022,9,22.8,3584,123,28,Individual,Travel Agency,62,11,4.7,100352,22,6
+HTL0394,Serena_394,Faisalabad,Balochistan,34.2267,73.1735,2022,7,78.6,8880,98,77,Tour Group,Airbnb,107,10,2.8,683760,18,59
+HTL0395,Beach Luxury_395,Faisalabad,KPK,30.3061,73.4157,2024,10,52.0,21414,127,66,Family,Travel Agency,125,20,2.7,1413324,0,66
+HTL0396,Serena_396,Islamabad,Islamabad Capital Territory,34.3296,66.0688,2025,7,47.8,23822,209,100,Individual,Website,141,13,4.3,2382200,71,29
+HTL0397,Ramada_397,Karachi,Balochistan,36.2039,63.6691,2025,6,28.0,15831,125,35,Business,Website,143,22,3.0,554085,25,10
+HTL0398,Hotel One_398,Peshawar,Punjab,33.1827,65.1174,2025,12,77.7,13559,157,122,Individual,Travel Agency,47,14,3.8,1654198,45,77
+HTL0399,Faletti's_399,Multan,Balochistan,29.9703,69.9709,2025,9,25.2,9868,107,27,Business,Airbnb,113,9,4.2,266436,16,11
+HTL0400,Avari_400,Lahore,Islamabad Capital Territory,34.7469,69.1512,2022,4,98.5,3560,66,65,Individual,Walk-in,107,5,4.4,231400,13,52
+HTL0401,Beach Luxury_401,Faisalabad,Balochistan,36.4001,65.1648,2022,1,74.5,10490,192,143,Business,Website,111,29,3.5,1500070,1,142
+HTL0402,Hotel One_402,Quetta,Punjab,33.2987,65.1141,2022,12,19.3,7112,233,45,Individual,Airbnb,90,22,4.5,320040,42,3
+HTL0403,Hotel One_403,Karachi,Sindh,35.6642,65.7441,2023,4,36.8,3740,174,64,Family,Travel Agency,139,14,4.4,239360,40,24
+HTL0404,Pearl Continental_404,Peshawar,Islamabad Capital Territory,30.5489,68.9631,2024,7,80.7,3174,171,138,Business,Website,34,17,4.2,438012,68,70
+HTL0405,Hotel One_405,Karachi,KPK,33.2888,73.3289,2021,8,57.9,24989,233,135,Individual,Booking.com,145,18,3.7,3373515,11,124
+HTL0406,Marriott_406,Islamabad,Balochistan,31.9286,61.6926,2022,1,36.9,22549,268,99,Business,Walk-in,41,30,3.8,2232351,91,8
+HTL0407,Ramada_407,Rawalpindi,KPK,36.2021,60.653,2024,7,23.3,23072,257,60,Family,Booking.com,109,24,2.6,1384320,31,29
+HTL0408,Beach Luxury_408,Rawalpindi,Sindh,30.2894,70.9635,2022,6,93.8,15668,32,30,Family,Walk-in,28,25,3.2,470040,1,29
+HTL0409,Pearl Continental_409,Lahore,Balochistan,26.0693,66.9939,2021,10,50.8,24684,118,60,Business,Airbnb,42,24,2.7,1481040,60,0
+HTL0410,Hotel One_410,Quetta,KPK,24.0251,66.7197,2021,3,19.5,3536,149,29,Individual,Walk-in,84,18,2.9,102544,11,18
+HTL0411,Faletti's_411,Peshawar,Sindh,25.8124,71.404,2025,6,59.9,22907,269,161,Family,Booking.com,28,27,2.6,3688027,52,109
+HTL0412,Marriott_412,Faisalabad,Sindh,30.8774,65.1801,2020,6,68.3,4760,183,125,Business,Travel Agency,148,23,3.6,595000,49,76
+HTL0413,Beach Luxury_413,Islamabad,Balochistan,27.4522,63.7649,2024,7,76.7,5907,172,132,Tour Group,Walk-in,16,25,3.5,779724,106,26
+HTL0414,Ramada_414,Faisalabad,Balochistan,36.276,68.031,2023,9,18.1,22864,232,42,Tour Group,Travel Agency,44,29,4.6,960288,20,22
+HTL0415,Beach Luxury_415,Rawalpindi,Sindh,25.8416,67.7476,2024,10,84.0,20167,81,68,Individual,Travel Agency,102,25,4.7,1371356,64,4
+HTL0416,Serena_416,Lahore,Balochistan,36.75,60.2855,2021,9,84.3,5111,159,134,Family,Travel Agency,147,28,3.4,684874,61,73
+HTL0417,Ramada_417,Lahore,KPK,25.6238,70.6748,2025,1,46.7,7379,120,56,Tour Group,Airbnb,129,22,4.3,413224,31,25
+HTL0418,Beach Luxury_418,Quetta,Punjab,34.2326,67.6407,2022,6,97.2,8040,108,105,Tour Group,Travel Agency,62,29,4.8,844200,47,58
+HTL0419,Marriott_419,Karachi,Sindh,30.4598,60.0389,2024,11,95.6,5693,90,86,Individual,Booking.com,83,6,3.0,489598,82,4
+HTL0420,Hotel One_420,Islamabad,Balochistan,31.8623,69.558,2024,12,33.8,14973,201,68,Family,Travel Agency,18,5,4.0,1018164,51,17
+HTL0421,Serena_421,Multan,Islamabad Capital Territory,25.3293,74.671,2025,3,81.0,20310,42,34,Family,Airbnb,82,19,4.3,690540,25,9
+HTL0422,Hotel One_422,Faisalabad,KPK,25.7799,68.8314,2022,2,51.4,10467,286,147,Business,Airbnb,99,24,3.0,1538649,135,12
+HTL0423,Faletti's_423,Multan,Sindh,34.762,62.9768,2021,3,22.8,19880,202,46,Business,Booking.com,59,20,5.0,914480,16,30
+HTL0424,Beach Luxury_424,Lahore,KPK,26.9892,61.4443,2023,12,5.2,10911,174,9,Family,Airbnb,100,27,4.3,98199,6,3
+HTL0425,Beach Luxury_425,Rawalpindi,Islamabad Capital Territory,30.4113,73.5314,2024,12,31.8,22565,255,81,Tour Group,Airbnb,110,21,3.2,1827765,11,70
+HTL0426,Beach Luxury_426,Lahore,Sindh,30.5538,74.8549,2023,9,23.7,10430,224,53,Family,Travel Agency,97,25,2.6,552790,40,13
+HTL0427,Hotel One_427,Lahore,Punjab,27.3743,61.8608,2025,1,82.8,19043,279,231,Family,Website,123,9,2.7,4398933,195,36
+HTL0428,Pearl Continental_428,Multan,Balochistan,31.0096,72.0132,2025,1,87.0,24947,276,240,Business,Website,74,27,4.1,5987280,113,127
+HTL0429,Faletti's_429,Faisalabad,Punjab,26.6399,69.8667,2024,1,61.5,3629,187,115,Family,Booking.com,69,5,4.8,417335,110,5
+HTL0430,Pearl Continental_430,Faisalabad,Punjab,25.1934,71.6499,2023,7,24.7,7337,97,24,Business,Airbnb,116,13,3.0,176088,9,15
+HTL0431,Marriott_431,Peshawar,KPK,32.8242,64.6128,2024,2,63.9,11975,36,23,Tour Group,Booking.com,101,21,4.7,275425,21,2
+HTL0432,Faletti's_432,Multan,Islamabad Capital Territory,30.6149,63.0964,2023,2,31.8,17274,110,35,Business,Walk-in,135,14,3.8,604590,31,4
+HTL0433,Avari_433,Islamabad,Punjab,27.3755,71.781,2023,4,59.1,13414,154,91,Family,Website,68,21,4.9,1220674,83,8
+HTL0434,Ramada_434,Peshawar,Balochistan,36.8972,73.2814,2025,1,49.5,24675,186,92,Family,Booking.com,77,29,4.3,2270100,10,82
+HTL0435,Pearl Continental_435,Peshawar,Balochistan,31.7754,74.5137,2024,4,73.9,10332,115,85,Business,Website,130,17,3.6,878220,81,4
+HTL0436,Beach Luxury_436,Rawalpindi,Islamabad Capital Territory,25.9963,66.6999,2024,8,78.4,5515,185,145,Family,Walk-in,18,8,3.9,799675,102,43
+HTL0437,Beach Luxury_437,Lahore,KPK,35.051,68.871,2022,2,76.1,4071,205,156,Tour Group,Walk-in,38,25,4.1,635076,124,32
+HTL0438,Ramada_438,Karachi,Balochistan,31.1756,64.0124,2022,11,92.6,21739,231,214,Family,Walk-in,67,22,3.6,4652146,139,75
+HTL0439,Serena_439,Rawalpindi,Balochistan,30.3936,67.6305,2021,4,93.5,10083,246,230,Individual,Walk-in,138,14,2.7,2319090,27,203
+HTL0440,Pearl Continental_440,Peshawar,Islamabad Capital Territory,32.6007,73.9533,2025,6,95.1,4387,203,193,Individual,Booking.com,150,9,4.5,846691,192,1
+HTL0441,Beach Luxury_441,Karachi,Punjab,26.5154,71.0895,2023,8,4.8,6153,293,14,Business,Airbnb,91,20,3.4,86142,4,10
+HTL0442,Marriott_442,Quetta,Sindh,29.2786,60.2943,2025,1,8.8,5550,260,23,Tour Group,Website,58,23,4.7,127650,18,5
+HTL0443,Serena_443,Lahore,Sindh,34.3688,61.5668,2025,2,56.6,14929,83,47,Individual,Booking.com,42,12,2.9,701663,8,39
+HTL0444,Faletti's_444,Rawalpindi,Balochistan,25.9729,62.8582,2025,9,76.1,22420,46,35,Business,Website,96,13,3.5,784700,4,31
+HTL0445,Avari_445,Rawalpindi,Punjab,28.8504,67.3533,2024,7,95.8,15554,288,276,Tour Group,Booking.com,91,18,3.0,4292904,260,16
+HTL0446,Pearl Continental_446,Quetta,KPK,27.4408,61.5775,2025,4,94.8,18598,191,181,Family,Booking.com,42,9,2.9,3366238,100,81
+HTL0447,Avari_447,Lahore,Punjab,35.0564,60.8558,2025,9,76.1,22787,46,35,Business,Airbnb,43,17,4.8,797545,17,18
+HTL0448,Beach Luxury_448,Peshawar,KPK,28.0117,64.8129,2022,6,74.3,4396,35,26,Business,Website,86,25,2.9,114296,13,13
+HTL0449,Beach Luxury_449,Karachi,Punjab,31.8994,73.1973,2021,10,28.7,10257,167,48,Individual,Booking.com,62,14,4.1,492336,29,19
+HTL0450,Hotel One_450,Lahore,KPK,36.7439,66.8474,2022,6,18.3,5902,71,13,Tour Group,Travel Agency,46,17,4.2,76726,1,12
+HTL0451,Ramada_451,Faisalabad,Sindh,28.9821,62.4359,2021,4,11.5,19540,244,28,Tour Group,Airbnb,17,25,4.2,547120,17,11
+HTL0452,Marriott_452,Faisalabad,Sindh,27.2889,67.9291,2022,5,30.1,7358,186,56,Tour Group,Booking.com,11,18,3.5,412048,36,20
+HTL0453,Serena_453,Faisalabad,Balochistan,32.1791,73.2759,2025,3,26.5,15688,245,65,Family,Walk-in,34,29,3.4,1019720,59,6
+HTL0454,Hotel One_454,Rawalpindi,KPK,24.4758,70.668,2021,11,76.2,23429,147,112,Business,Booking.com,12,28,3.8,2624048,63,49
+HTL0455,Faletti's_455,Peshawar,Sindh,29.6008,68.5546,2024,4,68.8,4325,128,88,Tour Group,Website,68,25,4.7,380600,37,51
+HTL0456,Hotel One_456,Peshawar,Sindh,32.2872,73.2978,2022,6,70.0,19749,120,84,Family,Walk-in,26,25,4.7,1658916,36,48
+HTL0457,Hotel One_457,Peshawar,Punjab,28.1709,68.504,2020,7,12.3,17965,244,30,Individual,Website,92,13,4.4,538950,27,3
+HTL0458,Faletti's_458,Rawalpindi,Sindh,25.9863,71.2692,2023,10,47.6,18622,185,88,Family,Walk-in,83,30,4.1,1638736,31,57
+HTL0459,Marriott_459,Faisalabad,Islamabad Capital Territory,35.5294,63.2823,2020,5,14.2,11688,246,35,Family,Travel Agency,82,30,3.5,409080,10,25
+HTL0460,Beach Luxury_460,Islamabad,Punjab,31.6888,65.6022,2024,5,99.5,22355,201,200,Business,Walk-in,14,26,4.8,4471000,76,124
+HTL0461,Faletti's_461,Rawalpindi,Punjab,24.8969,69.1569,2023,12,90.6,22846,53,48,Individual,Walk-in,82,26,3.4,1096608,30,18
+HTL0462,Serena_462,Quetta,KPK,36.7133,60.65,2025,9,90.9,20498,254,231,Individual,Travel Agency,82,9,4.6,4735038,38,193
+HTL0463,Beach Luxury_463,Karachi,Sindh,31.3948,70.1509,2022,4,12.5,12659,144,18,Individual,Walk-in,16,23,5.0,227862,16,2
+HTL0464,Ramada_464,Lahore,Balochistan,36.4034,64.2399,2020,1,46.6,4304,292,136,Business,Walk-in,81,24,4.5,585344,132,4
+HTL0465,Beach Luxury_465,Islamabad,Balochistan,31.2991,66.5684,2023,11,6.7,6657,179,12,Individual,Website,19,29,2.8,79884,8,4
+HTL0466,Hotel One_466,Quetta,KPK,34.0707,71.8081,2022,8,49.4,6686,243,120,Family,Website,149,17,3.9,802320,37,83
+HTL0467,Pearl Continental_467,Peshawar,Punjab,28.3295,71.8104,2025,2,54.0,14539,63,34,Business,Airbnb,15,7,3.3,494326,13,21
+HTL0468,Faletti's_468,Islamabad,Islamabad Capital Territory,35.105,68.9396,2021,10,33.3,18789,36,12,Individual,Website,118,26,3.4,225468,1,11
+HTL0469,Marriott_469,Lahore,Punjab,30.4727,69.0898,2020,8,70.9,15885,79,56,Family,Booking.com,110,6,3.5,889560,0,56
+HTL0470,Hotel One_470,Faisalabad,KPK,25.2295,70.7559,2021,9,42.9,4929,147,63,Tour Group,Airbnb,31,25,4.1,310527,13,50
+HTL0471,Hotel One_471,Karachi,Balochistan,31.3331,72.6865,2024,4,79.7,13835,69,55,Business,Walk-in,36,27,4.7,760925,53,2
+HTL0472,Ramada_472,Faisalabad,Islamabad Capital Territory,32.3969,63.1654,2020,10,57.9,12036,133,77,Family,Airbnb,106,30,2.9,926772,44,33
+HTL0473,Hotel One_473,Faisalabad,KPK,36.9047,72.1636,2024,3,8.0,11315,289,23,Tour Group,Booking.com,110,20,2.9,260245,14,9
+HTL0474,Avari_474,Multan,KPK,29.862,72.7936,2023,2,23.1,5715,117,27,Business,Travel Agency,85,22,2.5,154305,12,15
+HTL0475,Faletti's_475,Islamabad,Sindh,33.3167,64.536,2021,9,51.9,18771,287,149,Individual,Website,24,20,4.3,2796879,97,52
+HTL0476,Pearl Continental_476,Multan,Islamabad Capital Territory,25.0504,73.5188,2024,10,42.6,12111,141,60,Business,Booking.com,88,20,2.7,726660,49,11
+HTL0477,Avari_477,Karachi,Balochistan,26.0456,73.7586,2020,1,65.0,23743,200,130,Individual,Website,28,26,2.8,3086590,79,51
+HTL0478,Beach Luxury_478,Lahore,Islamabad Capital Territory,29.2007,65.1428,2023,12,77.4,24316,31,24,Tour Group,Website,64,25,4.1,583584,21,3
+HTL0479,Beach Luxury_479,Faisalabad,KPK,29.8848,71.6484,2021,1,83.9,19884,267,224,Business,Airbnb,55,12,4.5,4454016,68,156
+HTL0480,Serena_480,Lahore,Balochistan,29.1125,60.7378,2023,9,2.4,7964,246,6,Family,Website,85,6,4.7,47784,5,1
+HTL0481,Beach Luxury_481,Quetta,Punjab,27.3351,69.44,2025,1,36.2,7482,185,67,Business,Website,90,16,3.9,501294,40,27
+HTL0482,Pearl Continental_482,Lahore,Balochistan,36.6271,62.5689,2023,2,73.4,8930,199,146,Tour Group,Walk-in,144,12,2.8,1303780,62,84
+HTL0483,Faletti's_483,Rawalpindi,KPK,25.9874,67.2805,2020,3,26.5,15330,98,26,Business,Travel Agency,91,13,3.1,398580,21,5
+HTL0484,Hotel One_484,Rawalpindi,Islamabad Capital Territory,35.204,64.3799,2021,4,95.7,21286,163,156,Family,Booking.com,82,10,3.6,3320616,135,21
+HTL0485,Avari_485,Multan,Sindh,30.0371,72.8094,2023,10,42.6,8351,202,86,Business,Airbnb,49,17,3.1,718186,46,40
+HTL0486,Ramada_486,Rawalpindi,Punjab,29.941,60.2109,2025,9,97.6,23023,85,83,Business,Travel Agency,46,18,3.6,1910909,8,75
+HTL0487,Beach Luxury_487,Rawalpindi,Islamabad Capital Territory,36.7938,64.1806,2022,11,3.6,19194,248,9,Individual,Website,146,9,4.0,172746,7,2
+HTL0488,Avari_488,Karachi,Balochistan,24.6898,70.1041,2024,3,63.1,12189,168,106,Business,Booking.com,104,15,3.5,1292034,53,53
+HTL0489,Ramada_489,Faisalabad,Sindh,35.9366,63.2248,2023,9,86.2,5542,94,81,Business,Travel Agency,15,7,3.2,448902,12,69
+HTL0490,Serena_490,Lahore,Balochistan,24.0707,62.7094,2021,3,49.8,10873,221,110,Individual,Booking.com,76,7,3.1,1196030,38,72
+HTL0491,Avari_491,Quetta,KPK,31.1704,70.8324,2022,5,23.7,23640,152,36,Individual,Airbnb,105,26,3.1,851040,31,5
+HTL0492,Marriott_492,Rawalpindi,Punjab,28.395,74.3293,2023,12,26.7,23804,60,16,Family,Website,83,19,2.7,380864,3,13
+HTL0493,Avari_493,Karachi,KPK,26.6954,71.3008,2022,10,96.5,13528,115,111,Tour Group,Walk-in,119,11,5.0,1501608,101,10
+HTL0494,Beach Luxury_494,Multan,KPK,30.3159,60.3224,2023,6,62.0,20211,79,49,Business,Airbnb,27,7,3.1,990339,13,36
+HTL0495,Ramada_495,Quetta,Sindh,30.0972,70.3242,2025,7,5.7,16158,87,5,Individual,Travel Agency,142,29,3.6,80790,2,3
+HTL0496,Ramada_496,Rawalpindi,Sindh,27.0583,66.0759,2021,4,30.5,4236,82,25,Tour Group,Travel Agency,136,15,3.1,105900,16,9
+HTL0497,Beach Luxury_497,Islamabad,Balochistan,32.484,65.8798,2025,9,3.5,4825,288,10,Individual,Airbnb,148,20,4.5,48250,2,8
+HTL0498,Serena_498,Islamabad,KPK,35.6724,68.737,2024,2,91.6,23802,131,120,Business,Website,129,17,2.9,2856240,15,105
+HTL0499,Serena_499,Lahore,Sindh,35.0256,71.4502,2023,4,3.7,4085,187,7,Tour Group,Booking.com,73,13,5.0,28595,2,5
+HTL0500,Serena_500,Peshawar,Sindh,36.6237,70.6746,2025,5,92.5,11170,186,172,Family,Website,64,30,3.8,1921240,90,82
+HTL0501,Faletti's_501,Quetta,Sindh,32.3816,60.6504,2024,3,33.3,19059,264,88,Business,Walk-in,26,20,4.8,1677192,29,59
+HTL0502,Avari_502,Islamabad,Islamabad Capital Territory,31.0952,61.9115,2024,4,63.8,4400,290,185,Family,Website,40,14,2.8,814000,125,60
+HTL0503,Pearl Continental_503,Peshawar,Balochistan,36.7475,67.6104,2021,11,36.8,5299,68,25,Individual,Website,122,30,3.9,132475,21,4
+HTL0504,Marriott_504,Islamabad,Islamabad Capital Territory,24.0416,67.2133,2023,9,52.4,7369,63,33,Business,Booking.com,125,11,3.8,243177,32,1
+HTL0505,Beach Luxury_505,Quetta,Punjab,35.5046,70.7954,2022,10,69.5,21817,154,107,Individual,Airbnb,68,22,3.4,2334419,29,78
+HTL0506,Ramada_506,Faisalabad,Sindh,36.2949,64.603,2021,2,91.7,4104,229,210,Business,Website,64,22,4.1,861840,101,109
+HTL0507,Ramada_507,Rawalpindi,Islamabad Capital Territory,31.4208,64.9603,2021,2,8.5,18387,199,17,Tour Group,Airbnb,16,11,4.6,312579,9,8
+HTL0508,Serena_508,Karachi,Punjab,25.8464,64.6147,2024,9,58.8,8550,296,174,Business,Airbnb,46,16,4.2,1487700,137,37
+HTL0509,Pearl Continental_509,Faisalabad,KPK,28.5196,72.9337,2023,5,62.4,22850,298,186,Family,Website,60,10,4.4,4250100,33,153
+HTL0510,Marriott_510,Multan,Punjab,35.7726,70.472,2023,11,79.5,16492,39,31,Business,Airbnb,96,15,2.6,511252,13,18
+HTL0511,Ramada_511,Multan,Sindh,31.8839,70.2028,2025,12,68.9,10739,273,188,Business,Booking.com,31,21,3.3,2018932,37,151
+HTL0512,Marriott_512,Quetta,Punjab,34.0838,74.3305,2020,4,5.6,20397,126,7,Business,Airbnb,74,24,4.3,142779,7,0
+HTL0513,Ramada_513,Faisalabad,Sindh,34.7067,65.4833,2024,3,63.0,11696,73,46,Business,Walk-in,118,29,3.7,538016,33,13
+HTL0514,Faletti's_514,Islamabad,Sindh,32.4665,60.7797,2022,2,69.8,7786,129,90,Family,Booking.com,98,11,3.3,700740,89,1
+HTL0515,Beach Luxury_515,Karachi,Balochistan,33.2736,70.1756,2025,6,32.1,3382,162,52,Tour Group,Website,131,23,4.4,175864,47,5
+HTL0516,Avari_516,Peshawar,KPK,26.7255,61.6091,2022,5,34.2,7686,161,55,Family,Booking.com,105,7,4.9,422730,41,14
+HTL0517,Faletti's_517,Quetta,Islamabad Capital Territory,36.4612,60.3155,2020,3,9.4,10292,159,15,Business,Booking.com,74,25,3.3,154380,3,12
+HTL0518,Ramada_518,Islamabad,Balochistan,34.7144,72.9892,2023,9,11.6,8585,293,34,Tour Group,Travel Agency,56,12,3.3,291890,33,1
+HTL0519,Hotel One_519,Karachi,Sindh,30.1452,66.0605,2020,7,50.9,4045,167,85,Business,Booking.com,118,21,3.4,343825,17,68
+HTL0520,Ramada_520,Lahore,Sindh,28.3349,69.848,2020,11,95.7,20758,115,110,Tour Group,Walk-in,94,30,4.7,2283380,92,18
+HTL0521,Pearl Continental_521,Peshawar,Islamabad Capital Territory,35.818,69.38,2020,6,34.6,24578,52,18,Business,Travel Agency,121,8,4.0,442404,10,8
+HTL0522,Beach Luxury_522,Faisalabad,Balochistan,26.09,63.1551,2024,2,4.7,8192,299,14,Family,Walk-in,40,30,3.6,114688,9,5
+HTL0523,Serena_523,Karachi,KPK,28.3139,70.8723,2022,4,70.6,15814,248,175,Individual,Walk-in,16,28,4.2,2767450,155,20
+HTL0524,Marriott_524,Islamabad,Sindh,31.0571,69.9871,2021,8,69.0,14505,158,109,Tour Group,Website,125,25,3.0,1581045,55,54
+HTL0525,Serena_525,Multan,Balochistan,27.1212,74.696,2025,8,30.0,16690,30,9,Tour Group,Airbnb,41,25,2.7,150210,9,0
+HTL0526,Hotel One_526,Quetta,Islamabad Capital Territory,34.4005,65.0751,2021,4,65.6,17279,224,147,Individual,Walk-in,86,20,3.4,2540013,104,43
+HTL0527,Beach Luxury_527,Karachi,Islamabad Capital Territory,24.4525,60.0337,2023,11,96.0,18478,173,166,Business,Website,73,6,4.7,3067348,49,117
+HTL0528,Ramada_528,Lahore,Balochistan,25.9302,63.2294,2024,3,78.4,10471,88,69,Individual,Travel Agency,143,11,4.3,722499,46,23
+HTL0529,Pearl Continental_529,Rawalpindi,Balochistan,32.4631,67.332,2021,12,31.4,9263,35,11,Business,Walk-in,138,30,4.8,101893,5,6
+HTL0530,Pearl Continental_530,Rawalpindi,KPK,28.8714,62.3222,2023,12,6.6,12633,241,16,Business,Booking.com,101,13,3.2,202128,1,15
+HTL0531,Hotel One_531,Quetta,Balochistan,30.2594,64.5345,2021,2,95.9,14370,241,231,Tour Group,Travel Agency,117,19,3.0,3319470,62,169
+HTL0532,Marriott_532,Faisalabad,Punjab,24.2441,70.0583,2020,5,55.8,8791,52,29,Business,Walk-in,38,10,3.4,254939,6,23
+HTL0533,Serena_533,Lahore,Balochistan,30.5172,68.0696,2022,6,47.2,9692,36,17,Business,Booking.com,55,28,4.3,164764,2,15
+HTL0534,Pearl Continental_534,Rawalpindi,Punjab,32.6273,67.1181,2020,3,85.6,21649,285,244,Individual,Airbnb,53,23,3.1,5282356,60,184
+HTL0535,Avari_535,Lahore,Sindh,30.3432,60.2515,2020,11,93.8,14911,160,150,Individual,Website,141,26,4.0,2236650,24,126
+HTL0536,Hotel One_536,Karachi,Sindh,32.9838,70.2714,2024,1,57.7,6943,97,56,Family,Website,139,23,2.5,388808,17,39
+HTL0537,Marriott_537,Faisalabad,Islamabad Capital Territory,36.9538,65.4469,2024,3,86.8,17473,167,145,Family,Travel Agency,117,28,3.4,2533585,72,73
+HTL0538,Faletti's_538,Lahore,KPK,35.7202,73.713,2022,6,83.1,21764,59,49,Business,Website,74,9,4.2,1066436,13,36
+HTL0539,Ramada_539,Faisalabad,Punjab,25.2282,69.3436,2025,5,66.2,20721,77,51,Family,Airbnb,50,12,2.8,1056771,23,28
+HTL0540,Hotel One_540,Rawalpindi,KPK,25.6133,62.8426,2021,10,33.3,16441,186,62,Family,Airbnb,103,6,3.0,1019342,29,33
+HTL0541,Avari_541,Lahore,Balochistan,35.4448,64.7052,2022,4,94.0,17584,200,188,Business,Airbnb,46,23,4.7,3305792,80,108
+HTL0542,Marriott_542,Multan,KPK,33.433,62.432,2022,3,35.8,16703,268,96,Tour Group,Travel Agency,114,25,3.1,1603488,52,44
+HTL0543,Avari_543,Quetta,Sindh,26.8292,65.9346,2021,12,76.1,10609,205,156,Business,Booking.com,94,7,2.6,1655004,138,18
+HTL0544,Faletti's_544,Peshawar,KPK,34.4824,74.7021,2020,11,18.8,23054,260,49,Tour Group,Walk-in,48,8,5.0,1129646,42,7
+HTL0545,Serena_545,Islamabad,Islamabad Capital Territory,24.7164,69.5435,2023,6,91.7,19199,216,198,Tour Group,Website,10,26,4.5,3801402,103,95
+HTL0546,Avari_546,Peshawar,Sindh,29.3746,61.6898,2023,1,83.8,13768,154,129,Individual,Travel Agency,59,11,4.1,1776072,55,74
+HTL0547,Faletti's_547,Multan,KPK,28.0713,74.8154,2020,7,76.2,20842,42,32,Business,Airbnb,14,13,2.6,666944,10,22
+HTL0548,Serena_548,Lahore,KPK,29.7552,71.917,2024,10,50.4,4884,135,68,Tour Group,Website,33,14,4.3,332112,50,18
+HTL0549,Beach Luxury_549,Karachi,Punjab,24.8893,73.0801,2021,11,7.2,17493,125,9,Business,Booking.com,140,13,4.3,157437,7,2
+HTL0550,Marriott_550,Rawalpindi,Balochistan,34.9589,67.2243,2024,2,48.1,8233,289,139,Business,Travel Agency,39,18,4.6,1144387,74,65
+HTL0551,Faletti's_551,Karachi,Punjab,25.7293,62.81,2020,12,57.1,17982,98,56,Business,Airbnb,105,28,5.0,1006992,18,38
+HTL0552,Pearl Continental_552,Peshawar,Islamabad Capital Territory,29.218,70.0396,2020,10,63.0,17638,276,174,Family,Booking.com,128,24,3.3,3069012,35,139
+HTL0553,Hotel One_553,Faisalabad,Sindh,36.5836,64.9477,2020,6,5.6,13319,124,7,Tour Group,Airbnb,13,22,3.1,93233,5,2
+HTL0554,Serena_554,Lahore,Islamabad Capital Territory,36.1543,70.2798,2020,4,67.6,10787,259,175,Individual,Travel Agency,95,6,3.6,1887725,0,175
+HTL0555,Marriott_555,Faisalabad,KPK,26.6815,74.3887,2025,12,30.8,19850,52,16,Business,Website,117,6,3.9,317600,4,12
+HTL0556,Ramada_556,Multan,KPK,24.7939,68.7936,2022,10,58.8,16001,153,90,Tour Group,Website,108,24,2.9,1440090,42,48
+HTL0557,Ramada_557,Islamabad,Punjab,33.6753,66.0994,2020,12,31.7,19321,104,33,Tour Group,Airbnb,124,18,3.1,637593,20,13
+HTL0558,Pearl Continental_558,Islamabad,Punjab,26.2311,65.7727,2022,3,52.5,22836,162,85,Business,Walk-in,66,10,2.6,1941060,59,26
+HTL0559,Hotel One_559,Islamabad,KPK,26.2021,68.8096,2024,8,14.9,7181,188,28,Family,Travel Agency,111,8,3.0,201068,24,4
+HTL0560,Avari_560,Faisalabad,Punjab,26.5015,68.3241,2022,11,6.8,6214,206,14,Business,Airbnb,26,9,3.4,86996,6,8
+HTL0561,Ramada_561,Faisalabad,KPK,27.3828,63.5637,2020,1,19.8,18059,106,21,Tour Group,Booking.com,130,16,2.9,379239,10,11
+HTL0562,Ramada_562,Islamabad,Islamabad Capital Territory,30.7822,70.8578,2024,10,33.3,4052,159,53,Family,Booking.com,122,6,2.6,214756,32,21
+HTL0563,Serena_563,Karachi,Punjab,35.2017,72.0486,2025,5,32.8,3915,64,21,Individual,Airbnb,105,30,4.9,82215,16,5
+HTL0564,Avari_564,Islamabad,Sindh,27.9671,73.4028,2025,9,76.4,21394,203,155,Business,Travel Agency,104,9,4.2,3316070,82,73
+HTL0565,Faletti's_565,Islamabad,Punjab,33.8543,70.0257,2020,6,55.3,6384,228,126,Individual,Website,139,15,3.1,804384,91,35
+HTL0566,Serena_566,Multan,Islamabad Capital Territory,28.1106,65.5358,2024,3,87.7,18967,163,143,Individual,Walk-in,45,29,3.5,2712281,74,69
+HTL0567,Marriott_567,Multan,Punjab,31.8016,74.643,2024,8,45.1,21961,162,73,Family,Walk-in,115,27,4.3,1603153,16,57
+HTL0568,Pearl Continental_568,Islamabad,KPK,31.6577,65.5346,2021,2,17.3,12848,214,37,Family,Airbnb,24,22,3.8,475376,15,22
+HTL0569,Avari_569,Rawalpindi,Islamabad Capital Territory,35.032,69.7861,2025,12,81.3,17874,91,74,Business,Walk-in,46,8,3.3,1322676,50,24
+HTL0570,Faletti's_570,Rawalpindi,Islamabad Capital Territory,29.994,73.9489,2024,8,75.0,20391,92,69,Tour Group,Travel Agency,90,15,3.4,1406979,7,62
+HTL0571,Beach Luxury_571,Islamabad,Balochistan,26.6217,74.7069,2025,1,31.5,12551,127,40,Individual,Travel Agency,26,10,2.7,502040,39,1
+HTL0572,Pearl Continental_572,Lahore,Islamabad Capital Territory,30.1992,68.0271,2021,9,75.2,17463,222,167,Tour Group,Website,53,24,4.7,2916321,149,18
+HTL0573,Marriott_573,Multan,Balochistan,31.8562,62.1841,2022,11,91.9,21980,211,194,Individual,Travel Agency,102,25,3.2,4264120,24,170
+HTL0574,Serena_574,Multan,KPK,26.6493,64.8503,2025,11,38.5,23666,169,65,Business,Airbnb,97,8,3.8,1538290,64,1
+HTL0575,Avari_575,Karachi,Sindh,36.446,61.027,2024,9,47.3,23516,256,121,Family,Walk-in,112,16,3.3,2845436,110,11
+HTL0576,Pearl Continental_576,Rawalpindi,Islamabad Capital Territory,24.0782,68.8321,2025,2,80.6,23827,62,50,Business,Airbnb,62,12,4.5,1191350,39,11
+HTL0577,Faletti's_577,Lahore,Balochistan,29.9735,73.5459,2020,11,29.5,6250,95,28,Family,Walk-in,145,22,4.1,175000,22,6
+HTL0578,Faletti's_578,Karachi,KPK,31.6457,67.1914,2024,10,41.8,13948,294,123,Tour Group,Walk-in,47,12,3.2,1715604,122,1
+HTL0579,Avari_579,Peshawar,Punjab,25.3159,74.8365,2021,12,93.7,14956,239,224,Tour Group,Travel Agency,28,12,4.3,3350144,57,167
+HTL0580,Marriott_580,Faisalabad,Islamabad Capital Territory,27.8221,60.0493,2020,1,76.7,5968,90,69,Tour Group,Walk-in,110,20,4.2,411792,39,30
+HTL0581,Serena_581,Peshawar,Sindh,36.2736,68.396,2021,10,81.8,24086,44,36,Business,Airbnb,121,25,2.7,867096,19,17
+HTL0582,Hotel One_582,Quetta,Islamabad Capital Territory,29.8331,74.829,2022,2,75.8,13172,265,201,Business,Airbnb,55,26,2.7,2647572,130,71
+HTL0583,Beach Luxury_583,Peshawar,Sindh,33.2733,63.9873,2024,10,62.6,12550,211,132,Individual,Walk-in,48,14,4.2,1656600,131,1
+HTL0584,Serena_584,Karachi,Balochistan,29.1284,70.8761,2024,5,23.0,13259,217,50,Tour Group,Website,56,27,3.0,662950,34,16
+HTL0585,Hotel One_585,Lahore,Sindh,28.758,67.0476,2024,11,71.8,5813,142,102,Tour Group,Travel Agency,127,21,4.1,592926,94,8
+HTL0586,Hotel One_586,Rawalpindi,Punjab,34.1129,67.7058,2020,11,42.5,6348,285,121,Family,Airbnb,55,24,2.8,768108,56,65
+HTL0587,Hotel One_587,Peshawar,KPK,34.2925,61.9814,2020,6,28.4,23121,88,25,Business,Website,114,5,4.6,578025,14,11
+HTL0588,Faletti's_588,Rawalpindi,Punjab,25.5925,65.5522,2023,9,22.5,14885,151,34,Tour Group,Booking.com,35,5,3.7,506090,16,18
+HTL0589,Serena_589,Rawalpindi,Sindh,28.8027,70.3797,2022,6,72.5,5886,280,203,Business,Airbnb,31,23,2.5,1194858,181,22
+HTL0590,Pearl Continental_590,Faisalabad,KPK,30.1713,69.8432,2025,3,92.7,18361,234,217,Family,Walk-in,149,17,2.8,3984337,148,69
+HTL0591,Hotel One_591,Multan,Balochistan,28.6551,68.2342,2023,2,16.7,6907,234,39,Family,Walk-in,17,14,3.6,269373,28,11
+HTL0592,Pearl Continental_592,Quetta,Islamabad Capital Territory,26.0825,64.833,2020,4,43.9,21025,41,18,Individual,Travel Agency,21,29,3.1,378450,12,6
+HTL0593,Ramada_593,Rawalpindi,Islamabad Capital Territory,31.8005,74.1641,2021,10,27.5,19477,218,60,Tour Group,Booking.com,25,11,4.1,1168620,21,39
+HTL0594,Pearl Continental_594,Peshawar,KPK,35.4676,72.6838,2023,7,40.4,3587,275,111,Individual,Walk-in,59,16,3.8,398157,70,41
+HTL0595,Avari_595,Rawalpindi,Punjab,33.6231,64.4818,2024,11,68.8,18989,32,22,Business,Travel Agency,104,21,4.9,417758,4,18
+HTL0596,Pearl Continental_596,Faisalabad,Punjab,26.5534,72.8194,2021,9,61.4,21378,132,81,Individual,Airbnb,148,30,3.7,1731618,15,66
+HTL0597,Beach Luxury_597,Multan,KPK,30.5009,65.1293,2024,8,59.6,11382,297,177,Business,Website,72,6,4.6,2014614,126,51
+HTL0598,Beach Luxury_598,Quetta,Balochistan,31.0109,72.3194,2023,10,82.0,16975,89,73,Tour Group,Website,51,8,4.3,1239175,5,68
+HTL0599,Pearl Continental_599,Multan,Islamabad Capital Territory,24.4838,60.5787,2024,11,32.1,10693,137,44,Family,Travel Agency,99,18,2.5,470492,19,25
+HTL0600,Pearl Continental_600,Faisalabad,Islamabad Capital Territory,33.4784,67.9993,2025,2,97.6,22034,127,124,Individual,Travel Agency,15,29,3.6,2732216,116,8
+HTL0601,Hotel One_601,Rawalpindi,Balochistan,34.9357,67.6052,2020,11,37.8,14567,45,17,Tour Group,Travel Agency,87,16,4.1,247639,1,16
+HTL0602,Ramada_602,Lahore,KPK,26.7813,63.1154,2024,2,52.8,22330,53,28,Business,Travel Agency,125,8,2.6,625240,23,5
+HTL0603,Beach Luxury_603,Peshawar,Punjab,27.0695,66.2883,2022,8,32.5,11316,206,67,Family,Travel Agency,112,29,4.5,758172,7,60
+HTL0604,Beach Luxury_604,Quetta,Punjab,34.919,66.8225,2022,10,20.6,24688,194,40,Family,Airbnb,60,21,2.8,987520,31,9
+HTL0605,Pearl Continental_605,Lahore,Balochistan,27.8227,66.7807,2021,8,64.5,16499,121,78,Business,Travel Agency,123,20,2.7,1286922,6,72
+HTL0606,Marriott_606,Rawalpindi,Sindh,31.9912,73.9663,2022,9,31.2,15457,176,55,Business,Airbnb,25,27,3.5,850135,27,28
+HTL0607,Ramada_607,Islamabad,Balochistan,26.2471,73.2688,2024,3,87.4,19249,207,181,Business,Walk-in,47,30,2.6,3484069,55,126
+HTL0608,Marriott_608,Islamabad,Sindh,33.2439,71.5361,2024,6,62.8,6782,113,71,Family,Booking.com,79,8,4.1,481522,10,61
+HTL0609,Serena_609,Rawalpindi,Balochistan,24.3535,73.4584,2023,1,75.7,16138,111,84,Business,Travel Agency,42,14,4.1,1355592,73,11
+HTL0610,Pearl Continental_610,Multan,Sindh,34.0352,72.9313,2023,4,47.3,8983,182,86,Tour Group,Walk-in,136,27,3.6,772538,80,6
+HTL0611,Avari_611,Karachi,Sindh,33.5533,69.7366,2022,2,95.7,17606,163,156,Tour Group,Walk-in,130,7,3.4,2746536,6,150
+HTL0612,Pearl Continental_612,Quetta,Punjab,32.2536,74.6953,2020,5,18.5,22537,65,12,Business,Walk-in,149,5,3.2,270444,7,5
+HTL0613,Avari_613,Islamabad,Punjab,29.0609,71.9267,2023,4,45.4,8555,108,49,Business,Travel Agency,141,24,3.4,419195,22,27
+HTL0614,Hotel One_614,Rawalpindi,Sindh,28.1337,74.1912,2025,3,37.8,10331,82,31,Family,Website,136,19,3.2,320261,24,7
+HTL0615,Hotel One_615,Karachi,Punjab,29.9838,66.5774,2021,10,63.3,24259,169,107,Family,Walk-in,28,5,3.8,2595713,77,30
+HTL0616,Hotel One_616,Multan,Sindh,34.148,63.8856,2025,9,58.7,14508,46,27,Family,Website,95,27,4.3,391716,21,6
+HTL0617,Hotel One_617,Quetta,Balochistan,25.4684,68.1992,2024,9,52.7,17431,182,96,Family,Walk-in,21,24,2.8,1673376,56,40
+HTL0618,Faletti's_618,Multan,Punjab,24.8336,73.8541,2021,3,88.3,7265,154,136,Family,Website,105,27,4.8,988040,62,74
+HTL0619,Avari_619,Rawalpindi,Balochistan,31.7901,61.2234,2020,1,48.9,21162,219,107,Family,Booking.com,140,21,4.8,2264334,88,19
+HTL0620,Hotel One_620,Faisalabad,Punjab,35.9163,70.5991,2025,1,97.4,3510,114,111,Family,Website,93,8,2.9,389610,68,43
+HTL0621,Ramada_621,Multan,Islamabad Capital Territory,25.4709,68.7043,2020,1,88.2,10140,204,180,Tour Group,Booking.com,117,8,4.2,1825200,90,90
+HTL0622,Serena_622,Quetta,Punjab,36.2547,65.4621,2021,6,61.5,20045,52,32,Individual,Website,122,6,3.7,641440,27,5
+HTL0623,Marriott_623,Faisalabad,Balochistan,27.0935,69.6437,2022,10,82.6,5083,149,123,Individual,Booking.com,100,8,4.4,625209,111,12
+HTL0624,Beach Luxury_624,Rawalpindi,Punjab,25.1952,62.3715,2022,11,46.8,14042,250,117,Business,Website,106,9,2.8,1642914,36,81
+HTL0625,Avari_625,Faisalabad,Sindh,29.5684,72.1885,2021,2,43.2,7283,185,80,Business,Walk-in,60,7,4.1,582640,51,29
+HTL0626,Hotel One_626,Quetta,Islamabad Capital Territory,26.5601,63.3962,2024,9,85.3,21033,278,237,Individual,Airbnb,94,30,4.5,4984821,181,56
+HTL0627,Ramada_627,Islamabad,Balochistan,25.5804,68.5897,2022,9,96.1,11257,128,123,Tour Group,Booking.com,45,21,3.1,1384611,113,10
+HTL0628,Serena_628,Rawalpindi,Punjab,34.1298,72.3311,2020,11,83.0,24426,94,78,Tour Group,Travel Agency,15,19,4.3,1905228,5,73
+HTL0629,Faletti's_629,Islamabad,KPK,32.1991,71.9127,2021,12,97.7,6413,44,43,Tour Group,Travel Agency,36,27,2.8,275759,41,2
+HTL0630,Avari_630,Karachi,Punjab,30.8282,72.7252,2025,12,5.8,5887,259,15,Business,Walk-in,143,9,3.1,88305,7,8
+HTL0631,Avari_631,Faisalabad,Sindh,28.221,74.3632,2025,4,89.5,17783,38,34,Tour Group,Booking.com,32,27,4.9,604622,10,24
+HTL0632,Beach Luxury_632,Lahore,Punjab,35.0258,63.1552,2020,2,73.5,5271,49,36,Family,Booking.com,118,25,4.8,189756,33,3
+HTL0633,Pearl Continental_633,Lahore,Sindh,34.9332,63.9365,2020,4,97.7,8430,173,169,Tour Group,Travel Agency,75,24,3.2,1424670,23,146
+HTL0634,Ramada_634,Multan,KPK,30.793,63.16,2023,7,23.7,3470,198,47,Business,Travel Agency,143,13,2.8,163090,3,44
+HTL0635,Serena_635,Rawalpindi,Islamabad Capital Territory,29.6926,65.6325,2020,7,42.1,13662,57,24,Family,Walk-in,29,12,3.1,327888,11,13
+HTL0636,Pearl Continental_636,Islamabad,Islamabad Capital Territory,31.2365,71.4218,2023,12,16.0,9090,50,8,Individual,Booking.com,93,7,3.8,72720,3,5
+HTL0637,Faletti's_637,Islamabad,KPK,36.5666,70.4189,2022,10,52.7,10688,237,125,Business,Airbnb,132,15,4.8,1336000,60,65
+HTL0638,Pearl Continental_638,Islamabad,Punjab,30.4906,72.6526,2024,11,70.2,18453,225,158,Tour Group,Walk-in,87,6,3.5,2915574,45,113
+HTL0639,Hotel One_639,Islamabad,Islamabad Capital Territory,28.0075,70.284,2022,10,49.3,24480,215,106,Tour Group,Walk-in,47,28,4.8,2594880,3,103
+HTL0640,Beach Luxury_640,Quetta,Balochistan,33.3888,70.1211,2022,9,74.0,5917,177,131,Tour Group,Travel Agency,124,16,2.6,775127,63,68
+HTL0641,Avari_641,Islamabad,Balochistan,35.4313,62.6517,2025,4,97.7,24046,86,84,Individual,Walk-in,65,15,3.8,2019864,51,33
+HTL0642,Avari_642,Islamabad,KPK,30.6518,73.7266,2025,11,58.8,22166,68,40,Tour Group,Booking.com,26,26,4.9,886640,11,29
+HTL0643,Faletti's_643,Multan,Islamabad Capital Territory,28.5653,70.5382,2025,8,44.2,21871,249,110,Family,Travel Agency,65,28,5.0,2405810,32,78
+HTL0644,Beach Luxury_644,Islamabad,Balochistan,25.9159,63.6783,2022,3,84.0,14568,50,42,Business,Airbnb,18,28,2.5,611856,9,33
+HTL0645,Pearl Continental_645,Faisalabad,Sindh,29.3806,61.7135,2020,9,96.5,17874,144,139,Business,Booking.com,123,22,3.4,2484486,41,98
+HTL0646,Avari_646,Lahore,Punjab,26.3355,70.6383,2025,2,21.2,6113,33,7,Business,Booking.com,126,19,4.1,42791,4,3
+HTL0647,Avari_647,Rawalpindi,Punjab,26.9729,74.5616,2023,9,71.7,19307,60,43,Business,Booking.com,25,26,3.6,830201,16,27
+HTL0648,Serena_648,Multan,KPK,30.9513,70.84,2022,7,27.1,22501,48,13,Business,Travel Agency,18,10,3.5,292513,11,2
+HTL0649,Serena_649,Faisalabad,KPK,27.0258,70.5029,2024,12,70.1,21913,201,141,Tour Group,Booking.com,31,8,3.5,3089733,24,117
+HTL0650,Ramada_650,Karachi,Sindh,36.6138,74.5895,2022,6,82.7,14360,243,201,Family,Airbnb,120,17,2.6,2886360,193,8
+HTL0651,Serena_651,Faisalabad,Balochistan,25.5326,69.8344,2022,1,71.4,9859,126,90,Family,Travel Agency,86,20,4.5,887310,20,70
+HTL0652,Avari_652,Peshawar,KPK,33.5691,61.1202,2021,8,80.0,24687,35,28,Business,Walk-in,77,24,4.2,691236,5,23
+HTL0653,Pearl Continental_653,Lahore,KPK,36.5276,60.1182,2022,10,84.3,11365,83,70,Family,Airbnb,150,19,4.1,795550,36,34
+HTL0654,Marriott_654,Islamabad,Islamabad Capital Territory,35.3855,66.4451,2025,11,4.4,23089,160,7,Tour Group,Walk-in,99,22,4.4,161623,5,2
+HTL0655,Avari_655,Islamabad,Balochistan,24.0632,67.5378,2024,1,14.6,13697,212,31,Business,Walk-in,19,20,4.3,424607,17,14
+HTL0656,Faletti's_656,Peshawar,Islamabad Capital Territory,34.5378,61.881,2022,1,76.2,18207,189,144,Individual,Booking.com,117,11,2.8,2621808,16,128
+HTL0657,Beach Luxury_657,Multan,KPK,35.3866,73.3616,2021,9,71.0,17038,276,196,Individual,Airbnb,105,15,4.7,3339448,44,152
+HTL0658,Serena_658,Quetta,Sindh,36.1114,69.6768,2022,10,85.7,19980,77,66,Tour Group,Booking.com,90,18,3.2,1318680,14,52
+HTL0659,Serena_659,Rawalpindi,Balochistan,36.8104,74.0036,2025,7,82.9,24240,111,92,Family,Website,118,24,2.7,2230080,83,9
+HTL0660,Avari_660,Lahore,Balochistan,32.259,68.7408,2022,11,74.2,13731,209,155,Family,Walk-in,46,7,2.6,2128305,49,106
+HTL0661,Hotel One_661,Lahore,Islamabad Capital Territory,27.6451,63.3899,2022,10,4.2,10282,118,5,Tour Group,Walk-in,121,15,5.0,51410,2,3
+HTL0662,Hotel One_662,Karachi,Balochistan,31.0123,61.8093,2024,8,4.8,7870,230,11,Individual,Website,129,16,4.2,86570,4,7
+HTL0663,Beach Luxury_663,Karachi,KPK,32.067,70.6155,2023,7,14.0,12629,107,15,Business,Travel Agency,72,17,2.8,189435,11,4
+HTL0664,Avari_664,Lahore,Balochistan,25.7027,66.8856,2023,9,77.4,4824,115,89,Business,Walk-in,146,18,4.5,429336,5,84
+HTL0665,Pearl Continental_665,Peshawar,Islamabad Capital Territory,32.0219,69.4937,2024,8,50.5,18589,103,52,Business,Website,118,28,4.5,966628,52,0
+HTL0666,Faletti's_666,Islamabad,Sindh,30.4465,69.2795,2022,6,73.0,6433,152,111,Tour Group,Travel Agency,24,19,3.8,714063,100,11
+HTL0667,Hotel One_667,Multan,Balochistan,30.7448,68.9066,2025,7,52.3,14771,195,102,Family,Travel Agency,79,28,3.8,1506642,21,81
+HTL0668,Avari_668,Multan,Islamabad Capital Territory,34.46,72.0144,2024,10,30.7,10171,254,78,Family,Booking.com,88,8,2.5,793338,13,65
+HTL0669,Beach Luxury_669,Lahore,Islamabad Capital Territory,36.857,73.334,2020,2,69.2,11797,133,92,Individual,Website,44,15,3.8,1085324,32,60
+HTL0670,Pearl Continental_670,Quetta,Islamabad Capital Territory,24.347,63.2202,2025,12,11.7,20757,128,15,Individual,Booking.com,91,14,4.0,311355,9,6
+HTL0671,Faletti's_671,Karachi,Balochistan,35.8178,72.0483,2025,7,64.7,15466,249,161,Individual,Booking.com,119,8,3.7,2490026,114,47
+HTL0672,Marriott_672,Karachi,Islamabad Capital Territory,24.0557,71.2243,2022,9,25.3,22644,273,69,Tour Group,Airbnb,126,8,3.8,1562436,51,18
+HTL0673,Serena_673,Islamabad,Punjab,30.1757,70.6843,2021,2,44.4,3685,36,16,Family,Website,109,23,4.3,58960,13,3
+HTL0674,Hotel One_674,Quetta,Balochistan,27.3716,73.1658,2022,3,33.9,21347,298,101,Tour Group,Walk-in,24,6,3.2,2156047,73,28
+HTL0675,Ramada_675,Faisalabad,Balochistan,35.135,73.4649,2022,2,40.7,10270,285,116,Business,Website,47,15,3.3,1191320,83,33
+HTL0676,Marriott_676,Faisalabad,Balochistan,24.4098,64.3751,2022,10,12.8,15826,180,23,Individual,Airbnb,145,8,3.3,363998,1,22
+HTL0677,Hotel One_677,Faisalabad,Sindh,28.4406,67.3272,2023,2,29.7,5745,37,11,Family,Website,45,18,3.1,63195,5,6
+HTL0678,Pearl Continental_678,Quetta,KPK,35.7138,67.8271,2022,2,99.7,20841,289,288,Business,Walk-in,129,18,3.5,6002208,201,87
+HTL0679,Pearl Continental_679,Islamabad,Sindh,30.1368,68.9292,2023,10,18.6,21682,86,16,Individual,Airbnb,131,20,4.7,346912,3,13
+HTL0680,Beach Luxury_680,Faisalabad,Sindh,34.8677,67.9254,2022,7,19.1,6964,68,13,Business,Travel Agency,69,22,3.3,90532,4,9
+HTL0681,Marriott_681,Karachi,Sindh,30.7757,60.4617,2020,9,6.9,7554,218,15,Individual,Walk-in,29,9,4.5,113310,11,4
+HTL0682,Ramada_682,Peshawar,Islamabad Capital Territory,35.8032,65.9638,2020,6,90.2,24006,285,257,Individual,Travel Agency,147,15,3.0,6169542,15,242
+HTL0683,Beach Luxury_683,Peshawar,Balochistan,26.7668,74.3281,2023,5,80.6,13118,165,133,Individual,Airbnb,36,25,3.1,1744694,97,36
+HTL0684,Beach Luxury_684,Multan,Sindh,28.7241,70.9931,2025,2,52.8,24499,195,103,Family,Travel Agency,120,27,2.9,2523397,7,96
+HTL0685,Hotel One_685,Lahore,Punjab,35.5242,68.7166,2022,6,96.7,3719,271,262,Business,Travel Agency,99,7,3.4,974378,151,111
+HTL0686,Ramada_686,Lahore,KPK,28.6491,64.6379,2025,10,8.2,9837,61,5,Individual,Website,107,15,3.1,49185,5,0
+HTL0687,Faletti's_687,Multan,Punjab,36.403,63.44,2020,8,99.5,24774,216,215,Tour Group,Airbnb,15,7,4.7,5326410,66,149
+HTL0688,Serena_688,Karachi,KPK,24.3859,65.1862,2021,12,49.2,11524,240,118,Individual,Airbnb,42,30,3.5,1359832,92,26
+HTL0689,Avari_689,Islamabad,KPK,31.7195,69.6056,2023,4,84.1,3413,151,127,Family,Airbnb,15,24,3.7,433451,47,80
+HTL0690,Avari_690,Quetta,KPK,34.3277,70.6563,2023,10,23.2,5034,267,62,Tour Group,Website,38,9,3.2,312108,46,16
+HTL0691,Pearl Continental_691,Multan,Punjab,34.4885,70.2764,2021,8,80.4,6802,143,115,Individual,Airbnb,46,28,2.7,782230,77,38
+HTL0692,Hotel One_692,Faisalabad,KPK,32.2522,73.2673,2025,2,58.5,17563,188,110,Family,Walk-in,35,29,3.6,1931930,44,66
+HTL0693,Pearl Continental_693,Rawalpindi,Sindh,33.0226,62.1006,2022,11,79.1,5293,67,53,Family,Website,116,6,3.3,280529,46,7
+HTL0694,Serena_694,Quetta,Balochistan,34.2957,72.8186,2020,9,68.8,20112,144,99,Business,Website,140,20,3.7,1991088,18,81
+HTL0695,Ramada_695,Lahore,Sindh,29.8192,70.337,2023,5,40.5,5102,42,17,Individual,Walk-in,55,25,4.8,86734,15,2
+HTL0696,Beach Luxury_696,Multan,KPK,35.8742,61.0372,2020,5,84.9,5301,159,135,Business,Walk-in,38,27,3.5,715635,23,112
+HTL0697,Marriott_697,Karachi,Balochistan,34.1383,70.2707,2025,7,77.0,6720,270,208,Family,Booking.com,10,16,5.0,1397760,178,30
+HTL0698,Pearl Continental_698,Quetta,Islamabad Capital Territory,28.8181,71.0929,2025,8,18.1,22573,149,27,Tour Group,Booking.com,44,8,3.0,609471,17,10
+HTL0699,Serena_699,Islamabad,Punjab,32.6919,69.7815,2022,4,99.5,21691,208,207,Individual,Airbnb,56,21,4.8,4490037,147,60
+HTL0700,Ramada_700,Peshawar,Punjab,36.7158,68.3233,2020,6,26.6,17687,158,42,Business,Booking.com,17,11,3.1,742854,13,29
+HTL0701,Serena_701,Islamabad,Balochistan,30.2316,67.6004,2023,10,59.2,9098,233,138,Family,Travel Agency,26,16,4.1,1255524,30,108
+HTL0702,Serena_702,Islamabad,Sindh,30.5821,62.0856,2024,8,48.8,21050,86,42,Business,Travel Agency,99,18,4.8,884100,10,32
+HTL0703,Marriott_703,Multan,Punjab,27.0529,71.8152,2021,7,52.9,7806,187,99,Business,Travel Agency,115,14,3.1,772794,80,19
+HTL0704,Hotel One_704,Lahore,Sindh,26.8775,70.3783,2022,8,71.6,20862,236,169,Tour Group,Travel Agency,47,8,3.0,3525678,131,38
+HTL0705,Hotel One_705,Karachi,Punjab,25.6679,65.0624,2022,8,46.3,10121,177,82,Tour Group,Travel Agency,78,9,5.0,829922,77,5
+HTL0706,Pearl Continental_706,Peshawar,Punjab,30.4105,66.1579,2024,8,57.9,21319,145,84,Individual,Website,12,28,4.8,1790796,20,64
+HTL0707,Avari_707,Islamabad,Islamabad Capital Territory,29.783,68.3682,2020,11,17.1,19477,257,44,Family,Walk-in,10,8,4.4,856988,38,6
+HTL0708,Ramada_708,Islamabad,KPK,27.4991,71.6174,2020,11,38.7,3376,75,29,Business,Booking.com,64,25,3.8,97904,27,2
+HTL0709,Hotel One_709,Faisalabad,KPK,30.226,68.0996,2022,8,97.6,20373,85,83,Individual,Airbnb,94,25,3.5,1690959,54,29
+HTL0710,Beach Luxury_710,Quetta,Balochistan,26.7691,70.6318,2025,3,71.7,13330,269,193,Tour Group,Booking.com,120,5,4.6,2572690,2,191
+HTL0711,Hotel One_711,Lahore,Sindh,34.7131,64.3969,2025,2,39.8,16122,266,106,Business,Website,11,21,4.5,1708932,55,51
+HTL0712,Faletti's_712,Rawalpindi,Islamabad Capital Territory,25.6259,68.3259,2021,4,31.8,9416,296,94,Family,Airbnb,97,25,4.3,885104,65,29
+HTL0713,Serena_713,Multan,Sindh,28.5247,74.5491,2021,8,39.7,10665,237,94,Tour Group,Website,44,11,4.2,1002510,37,57
+HTL0714,Pearl Continental_714,Islamabad,Punjab,35.2514,63.8641,2024,1,44.9,23352,245,110,Individual,Travel Agency,54,5,3.7,2568720,15,95
+HTL0715,Hotel One_715,Faisalabad,Punjab,36.6562,64.3146,2024,11,15.3,18487,157,24,Business,Walk-in,141,6,4.8,443688,10,14
+HTL0716,Pearl Continental_716,Peshawar,Punjab,26.138,63.9652,2022,3,3.6,15790,167,6,Tour Group,Travel Agency,126,22,2.8,94740,0,6
+HTL0717,Beach Luxury_717,Quetta,KPK,32.588,71.7071,2021,5,13.4,18662,209,28,Business,Travel Agency,18,22,4.8,522536,22,6
+HTL0718,Pearl Continental_718,Islamabad,KPK,35.5955,65.5891,2022,8,98.9,4952,189,187,Individual,Walk-in,139,7,3.9,926024,38,149
+HTL0719,Marriott_719,Faisalabad,Islamabad Capital Territory,32.6897,65.2337,2023,10,78.7,18452,244,192,Business,Booking.com,140,29,4.0,3542784,90,102
+HTL0720,Marriott_720,Rawalpindi,KPK,31.8579,66.1505,2024,3,64.9,5850,114,74,Business,Booking.com,46,14,3.5,432900,27,47
+HTL0721,Serena_721,Rawalpindi,Sindh,33.2203,74.1421,2025,6,33.5,3112,221,74,Tour Group,Travel Agency,145,27,3.1,230288,3,71
+HTL0722,Avari_722,Lahore,Islamabad Capital Territory,36.5227,74.7731,2022,6,34.3,8317,169,58,Family,Travel Agency,30,12,3.9,482386,47,11
+HTL0723,Hotel One_723,Multan,KPK,24.3982,61.6153,2024,4,59.6,3568,297,177,Tour Group,Travel Agency,37,12,3.6,631536,25,152
+HTL0724,Serena_724,Lahore,KPK,24.4343,63.8334,2022,6,45.9,22257,231,106,Business,Website,24,8,2.7,2359242,3,103
+HTL0725,Ramada_725,Rawalpindi,Balochistan,30.4891,73.6904,2024,3,81.7,4995,126,103,Family,Travel Agency,64,14,3.9,514485,6,97
+HTL0726,Hotel One_726,Faisalabad,Balochistan,26.0761,64.4032,2022,2,28.6,8445,77,22,Business,Airbnb,62,8,3.2,185790,6,16
+HTL0727,Faletti's_727,Lahore,Balochistan,29.1375,70.1559,2024,2,99.4,11889,167,166,Individual,Booking.com,95,28,4.1,1973574,36,130
+HTL0728,Ramada_728,Faisalabad,Balochistan,29.4645,74.1106,2022,3,31.2,21491,32,10,Tour Group,Booking.com,14,15,4.9,214910,0,10
+HTL0729,Marriott_729,Rawalpindi,Sindh,24.2829,66.355,2020,2,71.3,5454,265,189,Business,Travel Agency,43,23,4.9,1030806,171,18
+HTL0730,Marriott_730,Islamabad,KPK,32.717,67.9175,2024,12,60.4,14967,212,128,Individual,Website,144,17,3.0,1915776,2,126
+HTL0731,Avari_731,Peshawar,Punjab,34.1554,64.4978,2022,6,19.4,20805,294,57,Tour Group,Airbnb,112,16,4.7,1185885,52,5
+HTL0732,Ramada_732,Rawalpindi,Sindh,36.9314,65.4491,2021,1,29.6,20892,98,29,Family,Booking.com,107,23,4.2,605868,1,28
+HTL0733,Ramada_733,Rawalpindi,Islamabad Capital Territory,25.5106,63.6491,2023,5,15.6,23828,32,5,Individual,Travel Agency,97,10,4.1,119140,4,1
+HTL0734,Beach Luxury_734,Quetta,Punjab,26.5206,60.3385,2020,6,46.8,18337,139,65,Family,Booking.com,65,28,2.9,1191905,5,60
+HTL0735,Marriott_735,Peshawar,Punjab,28.1429,67.7384,2022,4,20.0,13111,300,60,Family,Airbnb,15,24,3.6,786660,12,48
+HTL0736,Pearl Continental_736,Peshawar,Balochistan,25.4572,69.7213,2024,9,39.1,6603,69,27,Business,Airbnb,29,8,4.0,178281,17,10
+HTL0737,Faletti's_737,Islamabad,Islamabad Capital Territory,36.6181,63.0962,2021,7,11.1,9094,261,29,Individual,Travel Agency,19,29,4.3,263726,6,23
+HTL0738,Pearl Continental_738,Karachi,Islamabad Capital Territory,30.4577,67.745,2025,4,20.7,5313,111,23,Individual,Travel Agency,122,25,4.5,122199,19,4
+HTL0739,Beach Luxury_739,Quetta,Islamabad Capital Territory,30.7667,71.9646,2024,2,14.9,13522,222,33,Individual,Travel Agency,33,21,3.7,446226,13,20
+HTL0740,Marriott_740,Peshawar,Balochistan,31.1214,62.9949,2024,9,91.0,10266,212,193,Tour Group,Booking.com,56,15,2.9,1981338,55,138
+HTL0741,Pearl Continental_741,Lahore,Islamabad Capital Territory,27.468,66.1194,2021,7,49.1,16967,165,81,Tour Group,Airbnb,86,14,3.8,1374327,44,37
+HTL0742,Avari_742,Faisalabad,Sindh,30.3172,62.3254,2024,2,19.1,6470,89,17,Business,Website,47,18,4.6,109990,11,6
+HTL0743,Marriott_743,Karachi,Sindh,32.9336,67.4459,2020,12,80.1,9180,151,121,Family,Travel Agency,66,30,3.2,1110780,6,115
+HTL0744,Avari_744,Multan,Sindh,27.6086,67.8541,2020,8,33.5,10213,218,73,Individual,Walk-in,28,15,4.0,745549,13,60
+HTL0745,Ramada_745,Peshawar,Islamabad Capital Territory,26.8357,65.922,2020,1,73.6,17684,193,142,Business,Airbnb,146,21,3.8,2511128,95,47
+HTL0746,Avari_746,Peshawar,KPK,35.535,72.0604,2021,1,29.3,21468,232,68,Family,Walk-in,39,19,4.4,1459824,3,65
+HTL0747,Faletti's_747,Quetta,Sindh,28.7154,63.2274,2023,7,27.8,8845,151,42,Family,Booking.com,117,6,2.7,371490,30,12
+HTL0748,Hotel One_748,Rawalpindi,Punjab,24.5532,65.415,2021,2,51.4,17763,37,19,Business,Walk-in,44,5,2.9,337497,7,12
+HTL0749,Hotel One_749,Rawalpindi,Islamabad Capital Territory,36.2816,73.1253,2024,8,62.2,10078,209,130,Family,Website,90,24,3.6,1310140,39,91
+HTL0750,Serena_750,Quetta,Sindh,32.9674,67.807,2023,10,47.9,18468,219,105,Individual,Travel Agency,70,6,4.2,1939140,89,16
+HTL0751,Hotel One_751,Lahore,KPK,31.2967,73.092,2023,4,59.4,9906,256,152,Tour Group,Airbnb,14,11,4.7,1505712,20,132
+HTL0752,Marriott_752,Peshawar,Sindh,28.3953,69.5103,2025,10,25.6,9104,246,63,Tour Group,Website,57,13,3.4,573552,9,54
+HTL0753,Avari_753,Peshawar,Islamabad Capital Territory,32.8917,60.4806,2020,4,38.8,22907,121,47,Tour Group,Website,39,15,2.5,1076629,30,17
+HTL0754,Hotel One_754,Peshawar,Sindh,33.8241,66.4925,2023,6,94.1,24046,170,160,Tour Group,Airbnb,73,15,3.1,3847360,83,77
+HTL0755,Marriott_755,Lahore,Punjab,28.9332,68.3746,2021,11,34.3,6018,137,47,Tour Group,Travel Agency,82,23,2.8,282846,3,44
+HTL0756,Ramada_756,Faisalabad,Sindh,25.7944,61.2522,2023,1,42.2,15015,223,94,Tour Group,Airbnb,10,23,3.7,1411410,27,67
+HTL0757,Beach Luxury_757,Karachi,Balochistan,33.6613,74.7182,2022,1,85.1,16228,242,206,Family,Booking.com,94,22,3.9,3342968,9,197
+HTL0758,Ramada_758,Multan,Sindh,35.1889,67.9083,2023,12,60.5,23340,38,23,Family,Travel Agency,51,10,4.1,536820,0,23
+HTL0759,Avari_759,Karachi,KPK,32.105,72.4117,2021,12,63.2,3889,201,127,Tour Group,Airbnb,107,14,4.9,493903,83,44
+HTL0760,Avari_760,Multan,Punjab,28.1263,72.4458,2022,11,43.4,12116,198,86,Business,Website,78,12,3.5,1041976,41,45
+HTL0761,Marriott_761,Peshawar,Sindh,25.9588,71.968,2023,10,83.5,5429,212,177,Tour Group,Airbnb,75,27,3.6,960933,162,15
+HTL0762,Avari_762,Rawalpindi,KPK,35.3404,62.6519,2020,12,9.4,6637,181,17,Tour Group,Walk-in,16,9,2.8,112829,15,2
+HTL0763,Ramada_763,Islamabad,Punjab,33.7156,65.557,2021,9,53.0,17972,217,115,Family,Travel Agency,83,18,3.0,2066780,63,52
+HTL0764,Marriott_764,Multan,Punjab,33.5945,70.8777,2023,10,45.2,7600,84,38,Individual,Walk-in,32,27,2.8,288800,17,21
+HTL0765,Hotel One_765,Karachi,Balochistan,33.495,70.2201,2020,1,51.3,24184,156,80,Family,Website,148,22,4.3,1934720,75,5
+HTL0766,Avari_766,Karachi,Balochistan,31.6215,67.8653,2022,5,49.5,8418,186,92,Tour Group,Booking.com,14,18,4.8,774456,75,17
+HTL0767,Hotel One_767,Islamabad,KPK,31.7136,64.1183,2020,3,42.5,9487,273,116,Family,Walk-in,131,9,4.8,1100492,68,48
+HTL0768,Marriott_768,Quetta,Balochistan,25.1599,62.7888,2023,2,50.8,19239,177,90,Business,Travel Agency,133,18,3.0,1731510,71,19
+HTL0769,Beach Luxury_769,Islamabad,Sindh,30.0957,69.2783,2024,5,25.0,22364,192,48,Tour Group,Booking.com,132,23,2.6,1073472,43,5
+HTL0770,Serena_770,Karachi,Islamabad Capital Territory,35.3542,69.6524,2023,1,70.0,21386,260,182,Business,Travel Agency,106,19,4.7,3892252,156,26
+HTL0771,Hotel One_771,Lahore,KPK,25.5106,70.1696,2022,10,7.0,7651,115,8,Tour Group,Booking.com,96,25,3.4,61208,0,8
+HTL0772,Hotel One_772,Multan,Sindh,32.04,72.8477,2022,4,19.6,4458,102,20,Business,Airbnb,81,27,3.5,89160,11,9
+HTL0773,Ramada_773,Quetta,Islamabad Capital Territory,35.5531,71.3818,2023,11,25.0,6545,208,52,Tour Group,Website,78,30,4.5,340340,7,45
+HTL0774,Avari_774,Multan,Punjab,36.587,62.9386,2024,8,79.3,6458,184,146,Individual,Airbnb,82,15,2.6,942868,115,31
+HTL0775,Beach Luxury_775,Lahore,KPK,25.5741,73.7375,2022,7,2.8,5384,250,7,Tour Group,Airbnb,141,9,2.8,37688,1,6
+HTL0776,Beach Luxury_776,Islamabad,KPK,33.7878,68.1594,2020,6,9.6,4281,187,18,Business,Travel Agency,46,17,3.1,77058,9,9
+HTL0777,Serena_777,Faisalabad,Islamabad Capital Territory,24.5957,71.8783,2022,11,99.1,20327,222,220,Family,Walk-in,49,14,3.2,4471940,97,123
+HTL0778,Beach Luxury_778,Quetta,Sindh,26.6995,61.4455,2021,9,16.5,20031,285,47,Tour Group,Travel Agency,66,5,3.8,941457,1,46
+HTL0779,Avari_779,Peshawar,Balochistan,25.2521,73.8087,2020,12,90.9,8712,66,60,Family,Walk-in,52,30,4.1,522720,17,43
+HTL0780,Hotel One_780,Quetta,KPK,27.8699,66.6197,2024,3,78.7,20543,47,37,Business,Website,97,13,4.5,760091,17,20
+HTL0781,Serena_781,Peshawar,Punjab,34.5444,67.7664,2025,5,82.7,16162,104,86,Family,Airbnb,57,9,3.5,1389932,16,70
+HTL0782,Hotel One_782,Multan,Sindh,30.5602,62.0169,2022,8,4.8,9052,145,7,Tour Group,Airbnb,77,29,3.0,63364,7,0
+HTL0783,Marriott_783,Lahore,KPK,29.3845,61.278,2023,5,66.1,23407,59,39,Family,Walk-in,133,24,2.8,912873,4,35
+HTL0784,Faletti's_784,Quetta,KPK,26.588,64.5791,2020,12,50.0,3627,70,35,Business,Travel Agency,81,28,4.0,126945,4,31
+HTL0785,Hotel One_785,Quetta,Islamabad Capital Territory,24.0013,68.9368,2020,10,65.0,5664,280,182,Family,Booking.com,28,7,3.1,1030848,135,47
+HTL0786,Serena_786,Multan,Punjab,28.5426,63.6249,2025,2,93.8,7880,144,135,Tour Group,Booking.com,25,9,4.4,1063800,125,10
+HTL0787,Pearl Continental_787,Peshawar,Islamabad Capital Territory,26.8217,70.0948,2023,12,47.5,6539,238,113,Individual,Booking.com,44,22,4.6,738907,52,61
+HTL0788,Faletti's_788,Quetta,KPK,33.9455,73.3417,2021,1,15.6,19764,32,5,Family,Website,99,23,2.9,98820,2,3
+HTL0789,Pearl Continental_789,Islamabad,Balochistan,34.7432,66.0542,2025,9,81.4,4241,43,35,Family,Airbnb,88,14,4.1,148435,20,15
+HTL0790,Hotel One_790,Karachi,Punjab,30.7317,69.409,2020,11,31.8,4280,66,21,Individual,Booking.com,23,5,3.9,89880,17,4
+HTL0791,Faletti's_791,Quetta,Punjab,25.1401,69.1478,2023,1,14.0,23434,243,34,Family,Website,94,19,2.8,796756,1,33
+HTL0792,Beach Luxury_792,Faisalabad,Islamabad Capital Territory,35.2088,71.5215,2024,5,15.1,21774,53,8,Business,Travel Agency,61,22,4.8,174192,0,8
+HTL0793,Faletti's_793,Faisalabad,Balochistan,29.0122,66.732,2023,3,52.7,22046,226,119,Business,Travel Agency,100,15,4.6,2623474,54,65
+HTL0794,Beach Luxury_794,Lahore,Balochistan,26.487,69.1275,2020,10,34.1,16314,44,15,Family,Travel Agency,48,8,5.0,244710,14,1
+HTL0795,Ramada_795,Multan,Balochistan,35.6388,66.2303,2021,2,71.0,23435,31,22,Business,Website,35,18,4.5,515570,0,22
+HTL0796,Hotel One_796,Quetta,Punjab,29.6799,68.5293,2025,7,31.4,21878,86,27,Tour Group,Travel Agency,102,25,3.2,590706,4,23
+HTL0797,Hotel One_797,Peshawar,KPK,28.8372,63.7288,2022,9,45.7,3318,70,32,Tour Group,Walk-in,38,13,3.8,106176,8,24
+HTL0798,Pearl Continental_798,Multan,KPK,24.7635,63.0638,2025,2,89.6,3805,268,240,Business,Website,97,10,3.2,913200,198,42
+HTL0799,Beach Luxury_799,Lahore,KPK,32.4586,64.0981,2024,5,6.0,23346,265,16,Business,Airbnb,105,24,2.5,373536,4,12
+HTL0800,Avari_800,Rawalpindi,KPK,26.4263,65.0152,2024,9,45.9,12824,281,129,Tour Group,Booking.com,97,21,3.4,1654296,7,122
+HTL0801,Avari_801,Faisalabad,Sindh,30.4053,61.316,2025,10,92.8,6665,153,142,Individual,Airbnb,121,7,4.5,946430,92,50
+HTL0802,Marriott_802,Rawalpindi,Balochistan,30.5947,74.9158,2021,2,87.8,5709,180,158,Family,Website,22,16,4.2,902022,155,3
+HTL0803,Serena_803,Rawalpindi,Sindh,30.5804,69.7316,2020,4,38.2,24340,173,66,Business,Travel Agency,48,27,5.0,1606440,36,30
+HTL0804,Beach Luxury_804,Karachi,Islamabad Capital Territory,36.1474,63.9856,2024,6,34.5,12945,142,49,Tour Group,Walk-in,20,18,3.4,634305,42,7
+HTL0805,Marriott_805,Peshawar,Islamabad Capital Territory,30.75,67.0928,2024,2,22.1,21072,154,34,Tour Group,Walk-in,34,13,4.9,716448,30,4
+HTL0806,Beach Luxury_806,Islamabad,Islamabad Capital Territory,33.8379,65.6353,2023,12,79.4,9998,107,85,Business,Booking.com,54,9,3.5,849830,36,49
+HTL0807,Hotel One_807,Faisalabad,Islamabad Capital Territory,31.8747,69.9409,2022,6,41.2,20533,177,73,Business,Website,48,26,3.7,1498909,25,48
+HTL0808,Ramada_808,Rawalpindi,Islamabad Capital Territory,28.55,60.043,2022,6,15.6,20290,205,32,Business,Booking.com,22,30,4.1,649280,7,25
+HTL0809,Serena_809,Multan,Punjab,26.6593,67.2039,2020,12,77.5,17054,236,183,Tour Group,Walk-in,40,7,4.1,3120882,164,19
+HTL0810,Serena_810,Lahore,Balochistan,27.6998,72.6253,2020,10,30.1,21216,133,40,Business,Booking.com,121,13,2.5,848640,31,9
+HTL0811,Marriott_811,Peshawar,Islamabad Capital Territory,25.7702,71.3417,2021,10,14.0,12596,236,33,Tour Group,Walk-in,130,16,3.5,415668,5,28
+HTL0812,Faletti's_812,Karachi,KPK,26.7552,60.7686,2020,6,28.6,6916,203,58,Family,Travel Agency,53,5,4.4,401128,40,18
+HTL0813,Hotel One_813,Faisalabad,Balochistan,28.5466,68.5292,2021,10,17.7,4301,113,20,Tour Group,Website,70,22,4.5,86020,9,11
+HTL0814,Faletti's_814,Rawalpindi,Sindh,26.9247,67.6427,2025,4,44.5,4653,211,94,Family,Airbnb,125,20,4.6,437382,28,66
+HTL0815,Ramada_815,Faisalabad,KPK,31.8749,67.8361,2021,8,92.0,9584,112,103,Tour Group,Walk-in,84,26,3.3,987152,1,102
+HTL0816,Avari_816,Peshawar,Balochistan,26.872,61.286,2025,10,83.0,17688,153,127,Family,Airbnb,89,14,4.0,2246376,20,107
+HTL0817,Marriott_817,Karachi,Balochistan,31.7921,65.7553,2025,10,18.3,16531,218,40,Business,Airbnb,66,21,3.2,661240,0,40
+HTL0818,Ramada_818,Lahore,Balochistan,27.5984,65.243,2022,2,69.8,15458,222,155,Individual,Travel Agency,17,24,2.9,2395990,133,22
+HTL0819,Beach Luxury_819,Faisalabad,KPK,32.3353,72.4809,2020,1,46.1,6385,267,123,Business,Booking.com,11,26,3.9,785355,16,107
+HTL0820,Avari_820,Rawalpindi,Islamabad Capital Territory,26.867,62.4583,2022,6,84.5,23964,200,169,Family,Airbnb,129,20,3.8,4049916,150,19
+HTL0821,Serena_821,Islamabad,KPK,29.8333,69.9941,2020,9,11.8,5027,110,13,Family,Travel Agency,33,7,3.9,65351,11,2
+HTL0822,Faletti's_822,Rawalpindi,Islamabad Capital Territory,28.8129,74.1588,2020,2,32.5,20608,157,51,Business,Website,66,9,4.7,1051008,16,35
+HTL0823,Beach Luxury_823,Rawalpindi,Balochistan,29.6725,63.2307,2024,5,78.4,4603,102,80,Tour Group,Website,11,13,3.5,368240,15,65
+HTL0824,Beach Luxury_824,Peshawar,KPK,36.0032,71.646,2024,5,89.1,13232,165,147,Business,Airbnb,89,14,4.3,1945104,83,64
+HTL0825,Faletti's_825,Islamabad,Punjab,29.1268,69.6652,2020,10,4.8,9569,290,14,Tour Group,Walk-in,14,25,3.8,133966,12,2
+HTL0826,Beach Luxury_826,Quetta,Punjab,33.0431,73.9949,2024,3,59.5,14769,222,132,Individual,Website,91,16,4.1,1949508,38,94
+HTL0827,Faletti's_827,Peshawar,Islamabad Capital Territory,31.774,74.7342,2020,4,15.9,16962,207,33,Individual,Travel Agency,85,14,4.2,559746,12,21
+HTL0828,Avari_828,Quetta,Punjab,24.9673,64.0273,2023,7,12.9,7753,202,26,Tour Group,Walk-in,109,18,2.9,201578,22,4
+HTL0829,Beach Luxury_829,Rawalpindi,Punjab,29.1106,71.2921,2025,1,79.1,19334,67,53,Tour Group,Booking.com,29,7,3.6,1024702,53,0
+HTL0830,Pearl Continental_830,Islamabad,Balochistan,34.9825,73.9635,2025,1,40.8,9617,233,95,Individual,Airbnb,140,19,3.6,913615,58,37
+HTL0831,Marriott_831,Lahore,Punjab,29.1581,72.5713,2023,2,51.6,15836,91,47,Tour Group,Website,20,14,4.6,744292,5,42
+HTL0832,Serena_832,Multan,Balochistan,36.4287,61.8744,2020,5,87.8,17507,115,101,Family,Travel Agency,60,28,4.8,1768207,95,6
+HTL0833,Faletti's_833,Islamabad,Islamabad Capital Territory,32.1451,70.6799,2023,11,93.8,24677,176,165,Family,Walk-in,40,19,2.8,4071705,98,67
+HTL0834,Marriott_834,Peshawar,Punjab,34.7507,60.4175,2022,8,90.6,18967,32,29,Individual,Booking.com,61,22,4.3,550043,26,3
+HTL0835,Avari_835,Lahore,Islamabad Capital Territory,25.882,70.7342,2025,1,45.1,21969,133,60,Business,Walk-in,94,22,2.6,1318140,53,7
+HTL0836,Serena_836,Quetta,Punjab,35.9616,69.3153,2020,3,86.2,3756,94,81,Business,Airbnb,87,13,3.4,304236,29,52
+HTL0837,Hotel One_837,Faisalabad,KPK,26.6139,64.0098,2023,6,69.4,3906,36,25,Business,Website,135,16,5.0,97650,21,4
+HTL0838,Faletti's_838,Multan,Sindh,29.9306,62.0636,2025,6,21.1,12698,38,8,Individual,Airbnb,142,20,3.7,101584,2,6
+HTL0839,Ramada_839,Quetta,Balochistan,31.7981,60.6852,2024,3,28.7,9548,188,54,Business,Website,112,29,4.7,515592,47,7
+HTL0840,Faletti's_840,Quetta,Sindh,36.3655,62.1548,2021,7,69.0,13638,116,80,Business,Website,70,26,2.8,1091040,19,61
+HTL0841,Hotel One_841,Faisalabad,Islamabad Capital Territory,29.5377,60.9381,2020,9,14.5,6382,297,43,Individual,Walk-in,121,17,3.9,274426,29,14
+HTL0842,Pearl Continental_842,Islamabad,Islamabad Capital Territory,25.6345,63.0295,2024,7,94.6,19890,74,70,Business,Airbnb,134,9,4.8,1392300,22,48
+HTL0843,Hotel One_843,Multan,Islamabad Capital Territory,32.3665,67.6279,2022,8,62.2,3975,259,161,Business,Walk-in,150,8,4.0,639975,153,8
+HTL0844,Avari_844,Quetta,KPK,24.7323,62.1823,2024,9,51.7,21263,60,31,Business,Walk-in,41,14,4.7,659153,28,3
+HTL0845,Faletti's_845,Islamabad,Balochistan,34.6975,68.045,2021,11,86.0,13415,43,37,Tour Group,Walk-in,27,8,3.5,496355,30,7
+HTL0846,Avari_846,Peshawar,Islamabad Capital Territory,34.0788,62.6033,2022,12,12.1,20938,58,7,Family,Airbnb,88,10,2.6,146566,5,2
+HTL0847,Beach Luxury_847,Quetta,Balochistan,24.1313,63.5865,2020,5,21.4,15732,140,30,Family,Walk-in,31,16,4.1,471960,8,22
+HTL0848,Beach Luxury_848,Peshawar,Punjab,26.8259,64.7017,2020,7,65.3,17481,49,32,Individual,Walk-in,132,21,2.5,559392,29,3
+HTL0849,Avari_849,Faisalabad,Islamabad Capital Territory,26.0598,69.2833,2022,7,37.6,19356,170,64,Business,Website,61,27,4.0,1238784,56,8
+HTL0850,Faletti's_850,Islamabad,Punjab,32.4933,62.6024,2022,8,8.9,4493,135,12,Individual,Airbnb,30,26,4.0,53916,4,8
+HTL0851,Beach Luxury_851,Peshawar,Punjab,32.5418,60.8056,2025,4,54.0,9285,215,116,Tour Group,Website,91,17,3.5,1077060,59,57
+HTL0852,Avari_852,Lahore,Sindh,28.7137,63.6071,2021,5,72.7,5571,194,141,Tour Group,Walk-in,86,5,5.0,785511,120,21
+HTL0853,Hotel One_853,Lahore,Punjab,34.9433,72.3256,2022,2,19.7,20030,66,13,Individual,Travel Agency,147,28,4.0,260390,3,10
+HTL0854,Marriott_854,Islamabad,Islamabad Capital Territory,30.1675,74.9225,2021,10,23.5,24581,68,16,Individual,Walk-in,64,18,4.6,393296,11,5
+HTL0855,Avari_855,Multan,Punjab,36.0995,74.2257,2023,3,79.1,15307,201,159,Individual,Walk-in,94,14,3.6,2433813,119,40
+HTL0856,Marriott_856,Karachi,Punjab,26.2711,68.6431,2025,2,75.1,15444,229,172,Business,Airbnb,83,21,2.9,2656368,155,17
+HTL0857,Ramada_857,Peshawar,Punjab,36.9792,69.7266,2025,9,75.0,3089,164,123,Individual,Travel Agency,31,22,2.7,379947,5,118
+HTL0858,Serena_858,Quetta,Punjab,27.3415,64.3106,2025,6,60.6,10130,180,109,Individual,Travel Agency,110,6,3.4,1104170,62,47
+HTL0859,Marriott_859,Karachi,Punjab,28.9558,62.9767,2021,1,70.7,10755,99,70,Tour Group,Website,80,24,2.7,752850,5,65
+HTL0860,Avari_860,Faisalabad,KPK,26.4471,71.2248,2023,10,59.4,17898,224,133,Tour Group,Airbnb,10,12,3.5,2380434,41,92
+HTL0861,Hotel One_861,Karachi,Sindh,36.613,69.981,2024,5,51.5,6816,167,86,Family,Travel Agency,95,20,4.2,586176,78,8
+HTL0862,Hotel One_862,Peshawar,Punjab,31.8843,68.4962,2021,10,81.3,10831,289,235,Individual,Airbnb,118,7,4.4,2545285,79,156
+HTL0863,Ramada_863,Faisalabad,Punjab,30.3939,69.5189,2025,1,7.4,22671,229,17,Individual,Travel Agency,53,27,4.1,385407,2,15
+HTL0864,Pearl Continental_864,Multan,Islamabad Capital Territory,27.4833,67.9183,2023,4,9.8,16076,153,15,Tour Group,Travel Agency,122,18,3.3,241140,9,6
+HTL0865,Pearl Continental_865,Karachi,Sindh,29.7643,63.0364,2023,4,12.9,7432,124,16,Individual,Booking.com,137,29,3.0,118912,1,15
+HTL0866,Hotel One_866,Karachi,Islamabad Capital Territory,36.6707,68.547,2024,7,36.1,13022,205,74,Individual,Walk-in,86,25,4.1,963628,6,68
+HTL0867,Ramada_867,Quetta,Punjab,28.4264,62.4592,2025,4,9.7,21568,217,21,Individual,Website,113,21,3.9,452928,19,2
+HTL0868,Ramada_868,Rawalpindi,KPK,33.4495,70.4529,2023,9,31.4,20344,51,16,Business,Walk-in,12,19,4.0,325504,16,0
+HTL0869,Faletti's_869,Lahore,Sindh,31.4457,62.0326,2024,4,27.0,18146,37,10,Tour Group,Website,59,20,4.6,181460,9,1
+HTL0870,Hotel One_870,Quetta,Sindh,35.7492,71.866,2022,4,54.1,16110,37,20,Individual,Travel Agency,34,6,3.6,322200,20,0
+HTL0871,Hotel One_871,Faisalabad,Balochistan,32.4624,68.2715,2023,3,37.6,21508,149,56,Tour Group,Booking.com,148,26,3.7,1204448,45,11
+HTL0872,Serena_872,Lahore,KPK,30.562,67.071,2024,2,24.0,9873,267,64,Tour Group,Website,124,13,4.1,631872,34,30
+HTL0873,Ramada_873,Multan,KPK,26.1682,69.0608,2023,3,89.2,20168,287,256,Business,Travel Agency,82,11,3.1,5163008,109,147
+HTL0874,Serena_874,Rawalpindi,Punjab,35.1284,72.5465,2025,6,57.0,12485,79,45,Tour Group,Walk-in,132,20,2.8,561825,31,14
+HTL0875,Marriott_875,Karachi,Punjab,33.5306,64.8942,2022,9,73.7,11763,38,28,Individual,Walk-in,38,13,3.2,329364,17,11
+HTL0876,Avari_876,Rawalpindi,Punjab,36.9416,71.3224,2024,7,55.1,8874,198,109,Business,Website,127,15,4.4,967266,90,19
+HTL0877,Pearl Continental_877,Rawalpindi,Sindh,35.6691,60.3524,2022,11,87.9,22365,33,29,Family,Airbnb,116,30,4.8,648585,4,25
+HTL0878,Hotel One_878,Multan,Balochistan,29.4697,62.5075,2025,2,19.3,8584,181,35,Tour Group,Airbnb,13,25,4.5,300440,29,6
+HTL0879,Hotel One_879,Quetta,Balochistan,34.724,67.8209,2023,5,89.8,9428,274,246,Business,Airbnb,33,29,4.6,2319288,245,1
+HTL0880,Beach Luxury_880,Karachi,Punjab,27.5566,66.5978,2025,10,39.4,16547,188,74,Tour Group,Booking.com,53,7,3.6,1224478,54,20
+HTL0881,Beach Luxury_881,Karachi,Balochistan,31.7679,70.1434,2023,9,76.3,16498,291,222,Business,Travel Agency,126,5,2.8,3662556,215,7
+HTL0882,Faletti's_882,Multan,Islamabad Capital Territory,28.481,64.2494,2020,5,61.4,5678,264,162,Individual,Airbnb,123,8,3.9,919836,130,32
+HTL0883,Pearl Continental_883,Multan,Punjab,26.2785,60.4653,2020,7,8.7,8921,252,22,Family,Airbnb,76,12,3.4,196262,14,8
+HTL0884,Beach Luxury_884,Quetta,Islamabad Capital Territory,34.8206,67.0658,2021,10,42.7,10268,82,35,Individual,Airbnb,100,5,4.0,359380,2,33
+HTL0885,Hotel One_885,Islamabad,Sindh,35.18,60.5064,2025,4,53.6,3528,69,37,Tour Group,Booking.com,83,24,3.5,130536,13,24
+HTL0886,Faletti's_886,Quetta,Islamabad Capital Territory,32.8595,60.6027,2020,12,41.3,6455,235,97,Tour Group,Website,56,18,4.9,626135,84,13
+HTL0887,Marriott_887,Rawalpindi,KPK,30.1097,63.7408,2022,3,59.5,14917,262,156,Family,Airbnb,20,9,3.3,2327052,55,101
+HTL0888,Avari_888,Faisalabad,KPK,32.877,63.4761,2021,3,54.0,9348,126,68,Business,Airbnb,48,16,3.7,635664,11,57
+HTL0889,Avari_889,Quetta,Sindh,32.0168,63.4541,2025,11,34.3,23848,99,34,Business,Travel Agency,77,21,4.2,810832,5,29
+HTL0890,Hotel One_890,Karachi,KPK,26.2081,66.8851,2020,11,59.8,9523,179,107,Business,Travel Agency,141,30,4.5,1018961,17,90
+HTL0891,Ramada_891,Lahore,Punjab,26.002,72.4757,2025,2,75.3,23520,170,128,Business,Walk-in,73,22,2.6,3010560,107,21
+HTL0892,Serena_892,Quetta,Sindh,25.6878,64.5574,2025,2,38.1,9144,63,24,Family,Walk-in,50,12,4.7,219456,20,4
+HTL0893,Faletti's_893,Lahore,Sindh,35.8375,69.5396,2024,5,88.1,20692,219,193,Tour Group,Walk-in,102,19,4.2,3993556,177,16
+HTL0894,Serena_894,Islamabad,Punjab,34.8356,66.3645,2023,4,22.6,12873,159,36,Tour Group,Travel Agency,98,7,3.4,463428,31,5
+HTL0895,Ramada_895,Peshawar,KPK,33.3952,70.3032,2020,5,30.2,4702,212,64,Family,Travel Agency,41,15,4.8,300928,26,38
+HTL0896,Marriott_896,Quetta,Balochistan,33.666,60.0756,2024,7,86.2,23659,159,137,Business,Website,32,16,4.7,3241283,21,116
+HTL0897,Hotel One_897,Lahore,Punjab,32.7192,72.0147,2020,5,44.4,23735,124,55,Family,Website,130,5,4.9,1305425,48,7
+HTL0898,Beach Luxury_898,Multan,Sindh,33.5273,69.0516,2024,10,90.5,24277,273,247,Tour Group,Booking.com,54,18,4.3,5996419,33,214
+HTL0899,Serena_899,Rawalpindi,Balochistan,33.2894,65.6717,2025,8,28.0,10694,50,14,Individual,Walk-in,150,16,4.8,149716,10,4
+HTL0900,Ramada_900,Rawalpindi,Islamabad Capital Territory,29.1439,66.9613,2020,1,15.0,24914,153,23,Individual,Airbnb,44,5,4.4,573022,14,9
+HTL0901,Faletti's_901,Peshawar,KPK,28.3661,63.6982,2021,2,85.8,20092,296,254,Family,Travel Agency,57,23,3.1,5103368,127,127
+HTL0902,Faletti's_902,Peshawar,KPK,27.9444,60.7748,2025,4,100.0,3365,36,36,Family,Booking.com,69,18,3.2,121140,4,32
+HTL0903,Serena_903,Islamabad,Islamabad Capital Territory,34.3021,65.5578,2023,1,23.4,14347,184,43,Tour Group,Walk-in,30,9,3.8,616921,38,5
+HTL0904,Ramada_904,Islamabad,Sindh,36.0901,74.2563,2024,10,63.0,4819,281,177,Family,Booking.com,57,13,3.1,852963,103,74
+HTL0905,Faletti's_905,Rawalpindi,Islamabad Capital Territory,33.2741,64.8544,2025,7,87.2,8458,39,34,Tour Group,Travel Agency,10,24,2.9,287572,29,5
+HTL0906,Faletti's_906,Rawalpindi,Balochistan,31.4377,65.5563,2024,3,42.8,9479,278,119,Family,Booking.com,136,30,4.6,1128001,8,111
+HTL0907,Pearl Continental_907,Islamabad,Sindh,24.7644,68.7958,2021,1,45.7,14874,35,16,Individual,Website,10,27,4.1,237984,10,6
+HTL0908,Beach Luxury_908,Rawalpindi,Sindh,26.9276,60.9585,2021,9,16.8,4996,119,20,Tour Group,Website,13,24,4.5,99920,7,13
+HTL0909,Beach Luxury_909,Karachi,Islamabad Capital Territory,35.9338,68.6369,2023,4,31.0,14919,274,85,Family,Booking.com,114,27,3.6,1268115,70,15
+HTL0910,Marriott_910,Islamabad,KPK,25.501,71.9545,2023,8,88.9,15090,171,152,Tour Group,Walk-in,148,16,3.5,2293680,148,4
+HTL0911,Serena_911,Islamabad,Sindh,24.3325,68.7837,2025,12,21.0,5753,224,47,Tour Group,Website,35,16,3.5,270391,40,7
+HTL0912,Beach Luxury_912,Quetta,Islamabad Capital Territory,35.3708,72.2241,2025,5,45.3,20061,245,111,Business,Travel Agency,41,14,3.4,2226771,53,58
+HTL0913,Ramada_913,Quetta,Punjab,36.7127,67.4876,2024,7,69.4,14394,235,163,Family,Airbnb,56,13,4.1,2346222,118,45
+HTL0914,Ramada_914,Karachi,Punjab,33.9962,71.6693,2025,6,17.9,11444,263,47,Family,Walk-in,150,15,3.7,537868,5,42
+HTL0915,Faletti's_915,Islamabad,Sindh,28.4116,64.5257,2020,5,93.9,17717,33,31,Tour Group,Airbnb,132,12,4.3,549227,20,11
+HTL0916,Pearl Continental_916,Peshawar,Balochistan,26.6904,70.1704,2023,11,95.3,23967,148,141,Family,Travel Agency,20,21,4.2,3379347,99,42
+HTL0917,Faletti's_917,Islamabad,Balochistan,24.428,65.6468,2025,3,94.9,3916,198,188,Tour Group,Travel Agency,129,25,4.2,736208,4,184
+HTL0918,Ramada_918,Faisalabad,Balochistan,30.053,73.7075,2021,7,56.2,12528,208,117,Family,Booking.com,86,19,4.4,1465776,16,101
+HTL0919,Faletti's_919,Faisalabad,Sindh,25.8092,64.5972,2023,9,88.2,8334,161,142,Individual,Airbnb,53,12,2.7,1183428,126,16
+HTL0920,Faletti's_920,Lahore,Islamabad Capital Territory,33.4589,71.6387,2022,9,2.9,3778,171,5,Tour Group,Airbnb,51,27,4.1,18890,4,1
+HTL0921,Faletti's_921,Peshawar,Sindh,30.5218,62.9855,2024,6,40.6,8921,256,104,Individual,Travel Agency,139,9,3.7,927784,102,2
+HTL0922,Ramada_922,Rawalpindi,KPK,24.4173,62.7178,2025,7,53.8,10708,52,28,Individual,Website,141,30,3.5,299824,28,0
+HTL0923,Ramada_923,Rawalpindi,Balochistan,33.2032,62.587,2021,12,35.1,7350,288,101,Individual,Website,105,7,3.2,742350,16,85
+HTL0924,Beach Luxury_924,Quetta,Balochistan,34.504,61.8918,2021,1,52.5,12171,59,31,Family,Travel Agency,49,10,2.6,377301,3,28
+HTL0925,Serena_925,Islamabad,Islamabad Capital Territory,32.4144,68.3279,2020,2,90.8,7123,76,69,Tour Group,Booking.com,140,29,4.0,491487,47,22
+HTL0926,Ramada_926,Peshawar,Punjab,36.9047,73.2123,2025,9,38.1,5628,194,74,Business,Booking.com,56,23,2.7,416472,63,11
+HTL0927,Avari_927,Rawalpindi,Islamabad Capital Territory,29.1222,68.5871,2024,11,76.1,22581,163,124,Tour Group,Travel Agency,90,24,3.3,2800044,16,108
+HTL0928,Hotel One_928,Multan,KPK,24.0549,72.5193,2025,10,97.2,20501,216,210,Family,Travel Agency,145,21,3.3,4305210,130,80
+HTL0929,Ramada_929,Multan,Islamabad Capital Territory,35.3592,73.0533,2024,12,15.6,20402,141,22,Business,Walk-in,60,25,4.7,448844,21,1
+HTL0930,Avari_930,Karachi,KPK,32.2047,65.7362,2024,12,68.9,12684,119,82,Individual,Website,109,7,3.2,1040088,3,79
+HTL0931,Hotel One_931,Rawalpindi,Islamabad Capital Territory,29.543,72.383,2022,10,6.0,12666,151,9,Individual,Website,56,16,2.9,113994,7,2
+HTL0932,Hotel One_932,Quetta,KPK,24.7316,74.7615,2025,1,98.8,12609,83,82,Business,Booking.com,18,23,3.7,1033938,72,10
+HTL0933,Beach Luxury_933,Rawalpindi,Punjab,32.3068,64.3276,2021,12,66.7,21783,30,20,Family,Website,87,14,2.7,435660,17,3
+HTL0934,Ramada_934,Peshawar,Islamabad Capital Territory,34.3243,60.8232,2022,2,30.4,16900,112,34,Family,Walk-in,59,8,2.8,574600,19,15
+HTL0935,Serena_935,Islamabad,Islamabad Capital Territory,28.0933,61.2083,2025,6,59.5,11711,215,128,Tour Group,Booking.com,115,11,4.3,1499008,75,53
+HTL0936,Hotel One_936,Rawalpindi,KPK,30.7485,63.1808,2025,4,9.5,17499,264,25,Individual,Airbnb,75,26,4.9,437475,11,14
+HTL0937,Faletti's_937,Islamabad,Islamabad Capital Territory,25.436,66.2415,2022,11,88.7,19379,62,55,Tour Group,Walk-in,107,30,3.1,1065845,19,36
+HTL0938,Faletti's_938,Rawalpindi,Punjab,31.2588,67.4308,2023,6,28.9,5528,277,80,Individual,Website,139,20,2.8,442240,54,26
+HTL0939,Ramada_939,Islamabad,Punjab,27.518,72.9537,2025,9,95.6,18588,90,86,Tour Group,Booking.com,18,9,4.2,1598568,15,71
+HTL0940,Hotel One_940,Karachi,Punjab,33.0722,60.6013,2022,6,74.2,12724,271,201,Family,Website,13,28,3.1,2557524,48,153
+HTL0941,Hotel One_941,Rawalpindi,Balochistan,28.7505,67.7886,2024,5,43.3,22182,245,106,Family,Website,143,13,4.9,2351292,3,103
+HTL0942,Ramada_942,Karachi,KPK,33.495,60.2331,2020,12,35.7,6101,56,20,Business,Travel Agency,98,23,5.0,122020,7,13
+HTL0943,Marriott_943,Faisalabad,Punjab,30.4804,74.9958,2025,11,35.4,10921,79,28,Family,Airbnb,104,26,3.4,305788,22,6
+HTL0944,Marriott_944,Islamabad,Punjab,32.8868,71.8509,2023,6,92.8,9378,180,167,Individual,Booking.com,20,16,4.4,1566126,105,62
+HTL0945,Serena_945,Multan,Punjab,35.841,63.8767,2023,3,14.5,3682,145,21,Family,Website,34,13,3.9,77322,7,14
+HTL0946,Beach Luxury_946,Peshawar,Balochistan,30.1691,61.9948,2020,10,2.8,22983,281,8,Business,Airbnb,132,16,3.0,183864,1,7
+HTL0947,Pearl Continental_947,Islamabad,Punjab,34.2878,74.822,2025,7,70.9,6403,244,173,Business,Travel Agency,114,13,3.1,1107719,78,95
+HTL0948,Avari_948,Peshawar,KPK,29.886,74.3372,2023,7,38.8,11422,209,81,Business,Website,31,5,3.7,925182,6,75
+HTL0949,Beach Luxury_949,Faisalabad,Balochistan,34.0854,67.5659,2020,3,95.4,14066,284,271,Tour Group,Walk-in,111,6,3.3,3811886,173,98
+HTL0950,Marriott_950,Peshawar,Punjab,32.687,62.6984,2023,3,71.4,8684,42,30,Family,Walk-in,62,26,4.4,260520,2,28
+HTL0951,Marriott_951,Faisalabad,Sindh,36.8057,60.4594,2023,1,11.2,7778,152,17,Business,Travel Agency,67,26,4.3,132226,10,7
+HTL0952,Serena_952,Quetta,Islamabad Capital Territory,35.6786,64.4132,2024,3,40.6,15391,106,43,Business,Travel Agency,47,14,3.3,661813,6,37
+HTL0953,Hotel One_953,Rawalpindi,Islamabad Capital Territory,27.4934,61.0095,2020,12,69.0,15179,297,205,Family,Website,143,10,4.6,3111695,26,179
+HTL0954,Ramada_954,Lahore,KPK,24.6896,70.3323,2021,12,70.2,19054,262,184,Tour Group,Walk-in,74,23,3.7,3505936,130,54
+HTL0955,Avari_955,Multan,Islamabad Capital Territory,27.6297,60.0287,2025,12,23.2,23914,246,57,Business,Airbnb,124,25,2.7,1363098,17,40
+HTL0956,Ramada_956,Rawalpindi,Balochistan,33.1533,68.0177,2022,5,3.7,12052,270,10,Family,Travel Agency,105,6,4.7,120520,8,2
+HTL0957,Ramada_957,Rawalpindi,Islamabad Capital Territory,32.6526,74.8166,2024,12,9.1,21603,66,6,Business,Website,139,18,4.2,129618,5,1
+HTL0958,Marriott_958,Faisalabad,Punjab,34.6353,61.0001,2023,9,51.4,24758,292,150,Individual,Walk-in,127,19,4.9,3713700,46,104
+HTL0959,Ramada_959,Lahore,Balochistan,35.3609,61.1797,2023,10,96.8,5509,93,90,Tour Group,Airbnb,42,9,3.4,495810,8,82
+HTL0960,Ramada_960,Multan,Sindh,34.8837,69.2225,2021,8,46.1,10341,128,59,Tour Group,Airbnb,131,17,2.7,610119,37,22
+HTL0961,Marriott_961,Islamabad,KPK,30.3408,65.6378,2023,12,48.4,21383,225,109,Business,Walk-in,124,28,4.7,2330747,95,14
+HTL0962,Beach Luxury_962,Islamabad,KPK,35.4976,67.8561,2020,10,80.0,20701,55,44,Business,Booking.com,34,13,3.5,910844,2,42
+HTL0963,Beach Luxury_963,Islamabad,Sindh,25.2631,60.2574,2022,9,29.1,14514,179,52,Family,Website,41,29,2.8,754728,37,15
+HTL0964,Pearl Continental_964,Karachi,Sindh,26.1982,68.7007,2024,6,79.6,4405,225,179,Business,Website,49,25,2.6,788495,126,53
+HTL0965,Ramada_965,Islamabad,Islamabad Capital Territory,25.7917,67.6475,2025,10,96.8,19607,283,274,Family,Airbnb,78,16,4.5,5372318,255,19
+HTL0966,Hotel One_966,Peshawar,Sindh,34.9584,69.3172,2024,2,30.3,11829,277,84,Family,Airbnb,95,23,4.9,993636,10,74
+HTL0967,Beach Luxury_967,Islamabad,Punjab,26.1591,69.9651,2023,2,20.2,4456,119,24,Tour Group,Walk-in,66,12,4.9,106944,13,11
+HTL0968,Avari_968,Islamabad,Balochistan,34.4732,63.1228,2024,5,13.7,18179,139,19,Tour Group,Walk-in,114,17,3.9,345401,8,11
+HTL0969,Ramada_969,Multan,Punjab,34.3623,69.9462,2025,3,40.8,24222,49,20,Family,Walk-in,39,5,3.0,484440,13,7
+HTL0970,Beach Luxury_970,Rawalpindi,Balochistan,34.3773,69.4551,2025,5,51.1,7636,45,23,Individual,Booking.com,19,9,4.6,175628,3,20
+HTL0971,Faletti's_971,Rawalpindi,Balochistan,25.3599,60.0945,2022,2,83.1,16060,219,182,Business,Travel Agency,17,28,3.2,2922920,162,20
+HTL0972,Hotel One_972,Multan,KPK,30.6799,71.9402,2022,2,29.5,16942,112,33,Individual,Booking.com,85,14,2.5,559086,21,12
+HTL0973,Pearl Continental_973,Faisalabad,Balochistan,34.5873,62.0775,2024,11,99.3,10439,148,147,Tour Group,Website,95,18,3.9,1534533,1,146
+HTL0974,Beach Luxury_974,Peshawar,Punjab,24.674,65.5098,2021,12,48.2,21588,166,80,Family,Booking.com,116,30,2.6,1727040,35,45
+HTL0975,Pearl Continental_975,Peshawar,Islamabad Capital Territory,32.2627,70.5765,2022,11,36.6,10703,41,15,Tour Group,Travel Agency,36,15,4.5,160545,13,2
+HTL0976,Ramada_976,Karachi,Balochistan,27.6108,66.6893,2023,9,10.2,11735,157,16,Family,Booking.com,134,27,4.8,187760,2,14
+HTL0977,Serena_977,Karachi,KPK,26.8827,67.1546,2021,3,100.0,14377,46,46,Individual,Website,85,5,3.6,661342,16,30
+HTL0978,Avari_978,Faisalabad,Punjab,30.4458,74.0406,2021,6,68.4,22295,228,156,Tour Group,Walk-in,26,11,3.0,3478020,23,133
+HTL0979,Avari_979,Faisalabad,Punjab,24.3926,74.8793,2023,11,17.4,23888,219,38,Individual,Booking.com,36,27,2.8,907744,11,27
+HTL0980,Faletti's_980,Rawalpindi,Islamabad Capital Territory,27.0769,65.8946,2020,10,52.2,21509,272,142,Individual,Airbnb,55,29,4.2,3054278,85,57
+HTL0981,Marriott_981,Lahore,Islamabad Capital Territory,30.9964,70.3844,2022,12,11.6,14733,276,32,Individual,Booking.com,117,21,3.8,471456,1,31
+HTL0982,Faletti's_982,Multan,Sindh,27.3624,60.045,2021,2,59.4,12786,288,171,Individual,Booking.com,70,10,3.8,2186406,161,10
+HTL0983,Beach Luxury_983,Peshawar,Punjab,34.2806,61.0177,2022,12,40.6,10512,256,104,Individual,Booking.com,132,7,4.1,1093248,14,90
+HTL0984,Serena_984,Peshawar,Islamabad Capital Territory,28.5062,69.5268,2025,2,18.5,5890,287,53,Individual,Airbnb,135,12,3.5,312170,0,53
+HTL0985,Ramada_985,Multan,Islamabad Capital Territory,31.5598,72.361,2021,3,49.8,20157,277,138,Tour Group,Website,41,7,2.6,2781666,115,23
+HTL0986,Faletti's_986,Quetta,Punjab,26.0809,64.1089,2023,7,40.0,3899,145,58,Individual,Website,140,13,3.6,226142,8,50
+HTL0987,Pearl Continental_987,Faisalabad,KPK,24.9891,66.6137,2025,9,84.1,8913,220,185,Individual,Booking.com,46,24,3.9,1648905,95,90
+HTL0988,Avari_988,Lahore,Sindh,35.765,64.579,2021,10,5.9,18812,205,12,Business,Website,17,30,4.0,225744,3,9
+HTL0989,Hotel One_989,Quetta,Islamabad Capital Territory,30.417,72.3819,2020,5,90.3,14083,103,93,Family,Website,121,9,2.5,1309719,42,51
+HTL0990,Avari_990,Rawalpindi,Balochistan,27.2872,73.3951,2024,4,46.1,14931,128,59,Tour Group,Travel Agency,111,29,3.8,880929,46,13
+HTL0991,Faletti's_991,Faisalabad,Punjab,36.795,68.4917,2023,6,87.5,15153,263,230,Business,Booking.com,18,8,2.6,3485190,197,33
+HTL0992,Pearl Continental_992,Islamabad,KPK,30.7452,67.6564,2022,5,86.6,22969,231,200,Family,Travel Agency,105,15,4.6,4593800,183,17
+HTL0993,Hotel One_993,Islamabad,Islamabad Capital Territory,31.6583,62.0966,2025,5,50.0,15393,70,35,Individual,Walk-in,47,13,2.5,538755,3,32
+HTL0994,Beach Luxury_994,Lahore,Balochistan,28.5044,63.4972,2025,4,12.3,17831,154,19,Family,Booking.com,81,8,2.8,338789,12,7
+HTL0995,Avari_995,Quetta,Balochistan,34.766,71.5488,2025,2,60.3,12995,121,73,Business,Airbnb,145,11,3.3,948635,70,3
+HTL0996,Hotel One_996,Quetta,Sindh,34.9356,67.7253,2022,5,20.6,5735,286,59,Individual,Website,143,13,3.7,338365,24,35
+HTL0997,Avari_997,Quetta,Balochistan,35.9259,68.356,2020,6,79.3,21189,58,46,Individual,Travel Agency,17,29,3.9,974694,19,27
+HTL0998,Faletti's_998,Rawalpindi,Punjab,31.7819,63.1618,2021,2,80.4,18942,102,82,Business,Booking.com,22,16,4.2,1553244,32,50
+HTL0999,Hotel One_999,Karachi,Punjab,28.7618,66.155,2025,10,19.5,13917,77,15,Family,Walk-in,65,10,4.4,208755,10,5
+HTL1000,Avari_1000,Quetta,Balochistan,33.3283,62.2555,2024,4,95.2,24544,63,60,Business,Walk-in,109,26,4.7,1472640,7,53
