@@ -30,7 +30,7 @@ def load_travel_data():
     docs = []
 
     # 1️⃣ International tourists
-    tourists_csv = r"C:\Users\User\OneDrive\Desktop\agentverse\data\Internation Torsists in Pakistan.csv"
+    tourists_csv = r"C:\Users\User\Desktop\TOA-Proj\agent_verse\agent_verse\data\Internation Torsists in Pakistan.csv"
     if os.path.exists(tourists_csv):
         df_tourists = pd.read_csv(tourists_csv)
         for _, row in df_tourists.iterrows():
@@ -39,7 +39,7 @@ def load_travel_data():
         print(f"⚠️ Missing file: {tourists_csv}")
 
     # 2️⃣ Hotels
-    hotels_csv = r"C:\Users\User\OneDrive\Desktop\agentverse\data\Pakistan_Tourism_Hotels.csv"
+    hotels_csv = r"C:\Users\User\Desktop\TOA-Proj\agent_verse\agent_verse\data\Pakistan_Tourism_Hotels.csv"
     if os.path.exists(hotels_csv):
         df_hotels = pd.read_csv(hotels_csv)
         for _, row in df_hotels.iterrows():
@@ -52,7 +52,7 @@ def load_travel_data():
         print(f"⚠️ Missing file: {hotels_csv}")
 
     # 3️⃣ Tourist Destinations
-    dest_csv = r"C:\Users\User\OneDrive\Desktop\agentverse\data\Tourist Destinations.csv"
+    dest_csv = r"C:\Users\User\Desktop\TOA-Proj\agent_verse\agent_verse\data\Tourist Destinations.csv"
     if os.path.exists(dest_csv):
         df_dest = pd.read_csv(dest_csv)
         for _, row in df_dest.iterrows():

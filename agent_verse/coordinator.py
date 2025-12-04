@@ -2,6 +2,7 @@
 from travel_agent import travel_planner
 from news_agent import news_planner
 from edumind import edumind_agent
+from med_agent import med_planner, med_agent
 from plan import plan_task
 
 def execute_step(step: dict) -> dict:
@@ -19,6 +20,15 @@ def execute_step(step: dict) -> dict:
         result = edumind_agent.invoke({"query": step["prompt"]})
         if hasattr(result, "content"):
             result = result.content
+    elif agent == "med_agent":
+        # med_agent is a StructuredTool (or wrapper), call via .invoke() when available
+        try:
+            result = med_agent.invoke({"query": step["prompt"]})
+            if hasattr(result, "content"):
+                result = result.content
+        except AttributeError:
+            # fallback to med_planner wrapper which returns a string
+            result = med_planner(step["prompt"]) 
     else:
         result = f"No such agent: {agent}"
 
