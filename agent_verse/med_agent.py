@@ -258,11 +258,11 @@ def med_agent(query: str, top_k: int = 4) -> str:
     context_parts = []
     for r in retrieved:
         snippet = r["text"][:800].replace("\n", " ").strip()
-        context_parts.append(f"[{r['source']} | page:{r.get('page',0)} | chunk:{r.get('chunk_id',0)}]\n{snippet}")
+        context_parts.append(snippet)
     context = "\n\n".join(context_parts) or "No retrieved documents."
 
     prompt = f"""
-You are a careful, conservative medical assistant. Use ONLY the provided context passages to answer the user's question. Cite sources inline using [filename | page]. If the context does not contain enough information to answer, say you don't have enough evidence and recommend consulting a licensed healthcare professional.
+You are a careful, conservative medical assistant. Use ONLY the provided context passages to answer the user's question. If the context does not contain enough information to answer, say you don't have enough evidence and recommend consulting a licensed healthcare professional.
 
 Context:
 {context}
@@ -270,17 +270,24 @@ Context:
 User question:
 {query}
 
-Answer concisely, list citations for factual claims, and finish with a brief safety disclaimer.
+Answer concisely and finish with a brief safety disclaimer. Do NOT cite document sources or page numbers.
 """
     resp = llm.invoke(prompt)
     text = resp.content if hasattr(resp, "content") else str(resp)
+    
+    # Post-process: convert **text** patterns to bold HTML and add newlines before headings
+    import re
+    # Replace **heading**: patterns with <br/><b>heading</b>:
+    text = re.sub(r'\*\*([^*]+)\*\*:', r'<br/><b>\1</b>:', text)
+    
     disclaimer = ("\n\nDISCLAIMER: This information is for educational purposes only and is not medical advice. "
                   "For diagnosis or treatment consult a licensed healthcare professional. If this is an emergency contact local emergency services.")
     return text.strip() + disclaimer
 
 # wrapper used by coordinator
     return med_agent(prompt)
-def med_planner(prompt: str) -> str:
+def med_planner(prompt:
+     str) -> str:
     """Call the tool safely whether `med_agent` is a StructuredTool or a plain function.
 
     - If `med_agent` is a StructuredTool (decorator from `langchain_core.tools`), call

@@ -18,7 +18,7 @@ AGENT_CARDS = {
         "description": "Provides latest news, updates, summaries, and analysis from reliable sources."
     },
     "med_agent": {
-        "description": "Answers medical and health-related queries, provides evidence-backed guidance, and cites authoritative sources."
+        "description": "Answers medical and health-related queries, provides evidence-backed guidance from authoritative sources."
     },
     "edumind_agent": {
         "description": "Answers educational, scientific, and learning queries. Explains concepts, solves problems, tutors on topics, and provides knowledge from curated datasets."
